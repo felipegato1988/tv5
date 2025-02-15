@@ -239,161 +239,157 @@ http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?PlaylistM3UCL
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  XHUNES-TDT españa 
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  TBN Espana españa 
-https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  aragontv tv españa 
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  7 TeleValencia (576p) España 
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  7 Televisión Región de Murcia (1080p) España 
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  8 La Marina TV (576p) España 
-https://streaming005.gestec-video.com/hls/canal24.m3u8
+https://streaming005.gestec-video.com/hls/canal24.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  101tv Axarquia (480p) España 
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8
+https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Activa TV (720p) España 
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
+https://streamtv.mediasector.es/hls/activatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Anime Zone TV (480p) España 
-http://animezonetv.net/hls/stream.m3u8
-
-#EXTINF:-1,  Arabí TV (1080p) España 
-https://streamtv2.elitecomunicacion.cloud
+http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Burriana TV (720p) España  
-https://www.burrianateve.com/hls/btv.m3u8
+https://www.burrianateve.com/hls/btv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Canal 1 Mar Menor-Torre Pacheco (1080p) España 
-https://directo.tuwebtv.es/canal1.m3u8
+https://directo.tuwebtv.es/canal1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Canal 4 Catalunya (1080p) España 
-https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Canal 4 Mallorca (1080p)
-https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?PlaylistM3UCL
 
 EXTINF:-1,  Canal 24 Horas (720p) España 
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Canal 45 (576p) España 
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Canal Diocesano (576p) España 
-https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Canal Sur Andalucía 2 (720p) españa
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, CanalCosta (1080p) españa
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, CostadelSol TV (576p) España
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Diez TV Las Villas (1080p) España 
-https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Diez TV Úbeda (1080p) España 
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
+https://streaming.cloud.innovasur.es/mmj/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Distrito TV (1080p) España 
-https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8?PlaylistM3UCL
 
 EXTINF:-1, ducktv (720p) España 
-https://weyyak-live.akamaized.net/weyyak_ducktv/index.m3u8
+https://weyyak-live.akamaized.net/weyyak_ducktv/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Durangaldeko Telebista (576p) España 
-https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8?PlaylistM3UCL
 
 EXTINF:-1, EL PAÍS TV (1080p) España 
-https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?PlaylistM3UCL
 
 EXTINF:-1, El Toro TV (720p) España
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, lche 7 TV (576p)España
-https://elche7tv.gestec-video.com/hls/canal2.m3u8
+https://elche7tv.gestec-video.com/hls/canal2.m3u8?PlaylistM3UCL
 
 EXTINF:-1, EXTINF:-1, Empordà TV (1080p)España
-https://video3.lhdserver.es/empordatv2/live.m3u8
+https://video3.lhdserver.es/empordatv2/live.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Este Canal TV (576p)España
-http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Fitel TV (1080p)España
-https://tv.mywifisocial.es/live.m3u8
+https://tv.mywifisocial.es/live.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Fuerteventura TV (1080p)España
-https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
+https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Huelva TV (720p)España
-https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Lancelot TV (404p)España
-https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Mijas 3.40TV (720p)España
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
+https://streaming004.gestec-video.com/hls/MIJAS.m3u8?PlaylistM3UCL
 
 EXTINF:-1, MyTime movie network Spain (1080p)España
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Negocios TV (1080p)España
-https://streaming013.gestec-video.com/hls/negociostv.m3u8
+https://streaming013.gestec-video.com/hls/negociostv.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Nickelodeon España
-http://185.189.225.150:85/nickelodeon/index.m3u8
+http://185.189.225.150:85/nickelodeon/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, NORTEvisión (1080p)España
-http://amaru.dyndns.org:8870/0.m3u8
+http://amaru.dyndns.org:8870/0.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Onda Algeciras TV (576p)España
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Onda Valencia (720p)España
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
+https://cloudvideo.servers10.com:8081/8116/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, elemadrid Internacional (720p)España
-https://new-international-23-secure2.akamaized.net/index.m3u8
+https://new-international-23-secure2.akamaized.net/index.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Tuya La Janda Televisión (1080p)España
-http://185.210.20.13:8080/0.m3u8
+http://185.210.20.13:8080/0.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Univers TV (720p)España
-https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
+https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, Verbena TV (1080p)España
-https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
+https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8?PlaylistM3UCL
 
 EXTINF:-1, love tv trailer España
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, love tv wine España
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, love tv planet España
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8?PlaylistM3UCL
 
 EXTINF:-1, cocinafamiliar España
-https://cloud.streamingconnect.tv/hls/cocinafamiliar/cocinafamiliar.m3u8
+https://cloud.streamingconnect.tv/hls/cocinafamiliar/cocinafamiliar.m3u8?PlaylistM3UCL
 
 EXTINF:-1, novelas España
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  urbanrevolution venezuela 
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  recuerdos retro venezuela 
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1,  promar venezuela 
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL

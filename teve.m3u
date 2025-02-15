@@ -373,6 +373,20 @@ https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u
 EXTINF:-1, Verbena TV (1080p)España
 https://streamtv2.elitecomunicacion.cloud:3144/live/verbenatvlive.m3u8
 
+EXTINF:-1, love tv trailer España
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinees-samsungspain/playlist.m3u8
+
+EXTINF:-1, love tv wine España
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8
+
+EXTINF:-1, love tv planet España
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
+
+EXTINF:-1, cocinafamiliar España
+https://cloud.streamingconnect.tv/hls/cocinafamiliar/cocinafamiliar.m3u8
+
+EXTINF:-1, novelas España
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1,  urbanrevolution venezuela 
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL

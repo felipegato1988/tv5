@@ -160,9 +160,6 @@ https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1, Sipse TV Cancun | HD mexico
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1, las estrellas | mexico
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
-
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
@@ -204,6 +201,9 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  ssh101 colombia 
 https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, telepacifico colombia
+https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
 
 #EXTINF:-1,  C españa 
 https://streamtv2.elitecomunicacion.cloud:3738/hybrid/play.m3u8?PlaylistM3UCL
@@ -1622,6 +1622,108 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 #EXTINF:-1, UCL TelevisiÃ³n LATAM  | Uruguay 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, Canal 6 Honduras
+https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
+
+#EXTINF:-1, Campus Television En Vivo Honduras
+https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
+
+#EXTINF:-1, Ebenezer Tv En Vivo Honduras
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+
+#EXTINF:-1, JBN TV En Vivo Honduras
+https://mediacp.us:8081/jbntv/index.m3u8
+
+#EXTINF:-1, SI TV En Vivo Honduras
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
+#EXTINF:-1, Dios Te Ve En Vivo Honduras
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+
+#EXTINF:-1,Misión Tv En Vivo Honduras
+https://5e85d90130e77.streamlock.net/6000/6000/playlist.m3u8
+
+#EXTINF:-1,Escuchame Radio Tv nicaragua
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+
+#EXTINF:-1, RCC TV paraguay
+https://video.hostingcaaguazu.com:19360/rcctv/rcctv.m3u8
+
+#EXTINF:-1, Cubavisión cuba
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m83u
+
+#EXTINF:-1, Canal 27 guatemala
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+#EXTINF:-1, Teleantillas República Dominicana
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+
+#EXTINF:-1, Guaymate República Dominicana
+https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8
+
+#EXTINF:-1, Canal 25 Santiago República Dominicana
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+
+#EXTINF:-1, Faro Visión República Dominicana
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+
+#EXTINF:-1, RTVD  República Dominicana
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
+#EXTINF:-1, Valle Nuevo  República Dominicana
+https://media.streambrothers.com:19360/8262/8262.m3u8
+
+#EXTINF:-1, Teleuniverso Canal 29 República Dominicana
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+
+#EXTINF:-1, Naranja TV República Dominicana
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+
+#EXTINF:-1, TeleMaxRD República Dominicana
+https://vdo2.streamgato.us:3673/live/telemaxlive.m3u8
+
+#EXTINF:-1, Microvision República Dominicana
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+#EXTINF:-1, Fuego  República Dominicana
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+
+#EXTINF:-1, Telefuturo 23 República Dominicana
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+
+#EXTINF:-1, Multivisión  República Dominicana
+https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
+
+#EXTINF:-1, Cotui Tv Canal 22  República Dominicana
+https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
+
+#EXTINF:-1, Telebendicion República Dominicana
+https://ss5.domint.net:3180/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:-1, Celestial  República Dominicana
+https://5790d294af2dc.streamlock.net/celestial/celestial/playlist.m3u8
+
+#EXTINF:-1, Box Playlist República Dominicana
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1, Peravia Vision República Dominicana
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+
+#EXTINF:-1, Yuna Vision República Dominicana
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+
+#EXTINF:-1, SRC Media  República Dominicana
+https://video.misistemareseller.com/srctv/srctv/playlist.m3u8
+
+#EXTINF:-1, Hilando Fino República Dominicana
+https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
+
+#EXTINF:-1, RNN CANAL 27 República Dominicana
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+
+#EXTINF:-1, VISION 3000  República Dominicana
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+
 #EXTINF:-1,  CGTN Spanish china
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?PlaylistM3UCL
 
@@ -1688,17 +1790,38 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 #EXTINF:-1, freetv terror estados unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
-#EXTINF:-1, telemundo estados unidos
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+#EXTINF:-1, wowtv. el salvador
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Canal 21 salvador
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1, Canal Seis salvador
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+#EXTINF:-1, Megavision salvador
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+#EXTINF:-1, Canal 12 salvador
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1, Orbita TV salvador
+https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
+
+#EXTINF:-1, Tv CRET salvador
+https://serversv.com:8080/hls/tvcret.m3u8
+
+#EXTINF:-1, Television Católica salvador
+https://serversv.com:8080/hls/tvcret.m3u8
+
+#EXTINF:-1, Escuchame Radio nicaragua
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
 #EXTINF:-1,Nuevo Tiempo brazil 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,Stingray Classica canada
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Canal 21 el salvador
-https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 #EXTINF:-1,Pluto TV MTV Classic
 https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8?PlaylistM3UCL
@@ -1709,12 +1832,11 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, wowtv.
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, animezonetv
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  ATB Tv
 http://186.121.206.197/live/daniel/index.m3u8?PlaylistM3UCL
+
 

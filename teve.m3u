@@ -73,6 +73,9 @@ https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 #EXTINF:-1, tvc ecuador
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, telesur ecuador
+https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+
 #EXTINF:-1, Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 

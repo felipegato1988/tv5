@@ -64,8 +64,8 @@ https://plustv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UC
 #EXTINF:-1, curiquingue ecuador
 https://video2.lhdserver.es/pjtv/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, tc ecuador
-https://live-c.cf.dmcdn.net/sec2(uzdFqIF5WGHjj9H_kIFHwkd3Wx6CaZSTfCorqrHYErpxYFY7bgrtapv6MyoQnQ67fgWyL7TBy-uoVicWlZR5N6b2kyI5ZVe3Me11FjGSa1SCWsJknn7xhH4Lfa7lMVZ6)/dm/3/x7wijay/d/live-480.m3u8
+#EXTINF:-1, Enlace TV En Vivo ecuador
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1, uno ecuador
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL

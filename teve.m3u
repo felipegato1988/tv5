@@ -5,13 +5,11 @@ https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, PURUWA TV ECUADOR
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1, NORTIVISION ECUADOR
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, pipoltv ECUADOR
-https://clientestv.bachistreaming.com:3492/live/pipoltvlive.m3u8?PlaylistM3UCL
-
+https://clientestv.bachistreaming.com:3492/live/pipoltvlive.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1, oromartv ecuador
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
@@ -72,9 +70,6 @@ https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, tvc ecuador
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, telesur ecuador
-https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 
 #EXTINF:-1, Ecuador TV
 https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
@@ -436,12 +431,6 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Oxigeno Network  | Venezuela 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  TCS El Salvador 
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
- #EXTINF:-1,  WOW TV  | Salvador 
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1,  anime estacion argentina 
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/playlist.m3u8?PlaylistM3UCL
@@ -626,8 +615,6 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3U
 #EXTINF:-1,  TV Mana Argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  abc Paraguay 
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  bonao REP DOMINICANA 
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
@@ -1625,6 +1612,9 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 #EXTINF:-1, UCL TelevisiÃ³n LATAM  | Uruguay 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, TV Ciudad   | Uruguay 
+https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzQwMDIxMTk3JnJhbmRvbT1NOEN5TUNjbFlaJmMtaXA9MTgxLjExMy4xNTEuNDMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSw5MDU5MDhiODU0YzEyYjRhNTljYjFlOWYwYjEwOWU4MzA0YjU4OGZlOTNiMjI3NGVlNDkxMmU1NWE5MGZkMTQ2/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+
 #EXTINF:-1, Canal 6 Honduras
 https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
 
@@ -1646,17 +1636,26 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Misión Tv En Vivo Honduras
 https://5e85d90130e77.streamlock.net/6000/6000/playlist.m3u8
 
-#EXTINF:-1,Escuchame Radio Tv nicaragua
-https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
-
 #EXTINF:-1, RCC TV paraguay
 https://video.hostingcaaguazu.com:19360/rcctv/rcctv.m3u8
+
+#EXTINF:-1, snt paraguay
+https://dp7xchau0hnq3.cloudfront.net/360p.m3u8
+
+#EXTINF:-1, rpctv paraguay
+https://live-c2.cf.dmcdn.net/sec2(1Ngk2K4wFInvpc14vL09FCEw8ujqStqJapa0ICd-UejzLkdM0KXdExNJJhFtcJNhRawIgqo3FiMGVMWYSzTx4H6mEHq9bxlA71mVGg_x5hxACgZv6UzDM9ZBqGLCaJhC)/cloud/3/x8lwrcd/s/live-720.m3u8
+
+#EXTINF:-1,  abc Paraguay 
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Cubavisión cuba
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m83u
 
 #EXTINF:-1, Canal 27 guatemala
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+#EXTINF:-1, TN23 guatemala
+https://d4bee8qaav6x0.cloudfront.net/360p.m3u8
 
 #EXTINF:-1, Teleantillas República Dominicana
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
@@ -1799,6 +1798,12 @@ https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?Playl
 #EXTINF:-1, Megavision salvador
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
+#EXTINF:-1,  TCS El Salvador 
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+ #EXTINF:-1,  WOW TV  | Salvador 
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, Canal 12 salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
@@ -1808,8 +1813,17 @@ https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1, Television Católica salvador
 https://serversv.com:8080/hls/tvcret.m3u8
 
-#EXTINF:-1, Escuchame Radio nicaragua
+#EXTINF:-1,Escuchame Radio Tv nicaragua
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+
+#EXTINF:-1,canal 4 nicaragua
+https://live-c.cf.dmcdn.net/sec2(-xDUM4pDQZf_nJKXkexMykb1jUQLp_ng90A3Bi4wKDyLPcnUuKOXPxnhI2RKsAdKOPboSv1Rgf9OeRUnIyGFl8PILObhrPi-jFw_0cxSs1VUMJJOqg3gyH8JBpuOlofe)/dm/3/x7rwv8c/s/live-480.m3u8
+
+#EXTINF:-1,TN8 nicaragua
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1836388087.m3u8
+
+#EXTINF:-1,Canal 6 Nicaragüense nicaragua
+https://live-c.cf.dmcdn.net/sec2(aAYqMaBZwtF0O837A05fhWUjdQ3a-zxhr-q3LQC86OXkoBqXXS1nwRiFGqor5xOx47W09qZa1nDwrnPeviRutCysD5HA7MQYIQL9X_g6bD41RIVyrvgKBx-3UVMzDeeA)/dm/3/x96x78e/s/live-480.m3u8
 
 #EXTINF:-1,Nuevo Tiempo brazil 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
@@ -1828,7 +1842,3 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, animezonetv
 http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-
-
-
-

@@ -158,6 +158,9 @@ https://60417ddeaf0d9.streamlock.net:443/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1, Sipse TV Cancun | HD mexico
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
+#EXTINF:-1, las estrellas HD mexico
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
@@ -272,7 +275,7 @@ https://www.burrianateve.com/hls/btv.m3u8?PlaylistM3UCL
 #EXTINF:-1,  Canal 1 Mar Menor-Torre Pacheco (1080p) España 
 https://directo.tuwebtv.es/canal1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Canal 4 Mallorca (1080p)
+#EXTINF:-1,  Canal 4 Mallorca (1080p) España 
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?PlaylistM3UCL
 
 EXTINF:-1,  Canal 24 Horas (720p) España 
@@ -615,7 +618,6 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3U
 #EXTINF:-1,  TV Mana Argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1,  bonao REP DOMINICANA 
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 
@@ -792,6 +794,9 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1,  Super Q Panama  
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  Istmo Tv Panama  
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 
 #EXTINF:-1,  recuerdos retro chile 
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
@@ -1615,6 +1620,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1, TV Ciudad   | Uruguay 
 https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzQwMDIxMTk3JnJhbmRvbT1NOEN5TUNjbFlaJmMtaXA9MTgxLjExMy4xNTEuNDMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSw5MDU5MDhiODU0YzEyYjRhNTljYjFlOWYwYjEwOWU4MzA0YjU4OGZlOTNiMjI3NGVlNDkxMmU1NWE5MGZkMTQ2/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
 
+#EXTINF:-1, Canal Mas| Uruguay 
+https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8
+
 #EXTINF:-1, Canal 6 Honduras
 https://live.trn-network.com/memfs/1d6c814e-2141-4b1b-b4ed-ff1a9364ae17.m3u8
 
@@ -1636,20 +1644,26 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Misión Tv En Vivo Honduras
 https://5e85d90130e77.streamlock.net/6000/6000/playlist.m3u8
 
+#EXTINF:-1,Jehova Tv En Vivo Honduras
+https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
+
 #EXTINF:-1, RCC TV paraguay
 https://video.hostingcaaguazu.com:19360/rcctv/rcctv.m3u8
 
 #EXTINF:-1, snt paraguay
 https://dp7xchau0hnq3.cloudfront.net/360p.m3u8
 
-#EXTINF:-1, rpctv paraguay
-https://live-c2.cf.dmcdn.net/sec2(1Ngk2K4wFInvpc14vL09FCEw8ujqStqJapa0ICd-UejzLkdM0KXdExNJJhFtcJNhRawIgqo3FiMGVMWYSzTx4H6mEHq9bxlA71mVGg_x5hxACgZv6UzDM9ZBqGLCaJhC)/cloud/3/x8lwrcd/s/live-720.m3u8
-
+#EXTINF:-1,Enlace TV En Vivo paraguay
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+ 
 #EXTINF:-1,  abc Paraguay 
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Cubavisión cuba
-https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m83u
+https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
+
+#EXTINF:-1, Prensa Latina cuba
+https://eu1.servers10.com:8081/8192/index.m3u8
 
 #EXTINF:-1, Canal 27 guatemala
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
@@ -1744,6 +1758,113 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?Pla
 #EXTINF:-1, RT en Espanol rucia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,  Telemundo 51 Miami  estados unidos 
+https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+
+#EXTINF:-1,  runtime estados unidos 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4647
+
+#EXTINF:-1,  Runtime Familia estados unidos 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
+
+#EXTINF:-1,  Runtime Clásicos estados unidos 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+
+#EXTINF:-1,  Cops en Español estados unidos 
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,  BJGTJME estados unidos 
+https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,  Power Nation estados unidos 
+https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
+
+#EXTINF:-1,  FOX Spots estados unidos 
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+#EXTINF:-1,  ARTFLIX estados unidos 
+https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,  Canela TV estados unidos
+https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
+
+#EXTINF:-1,  Planeta de Aventuras estados unidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=431
+
+#EXTINF:-1,  3ABN LATINO estados unidos
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1,  CBN Español
+ estados unidos
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
+
+#EXTINF:-1,  Haz Clic! estados unidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
+
+#EXTINF:-1,  La Mega Mundial estados unidos
+https://server40.servistreaming.com:3477/stream/play.m3u8
+
+#EXTINF:-1,  Marti Tv estados unidos
+https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/master.m3u8
+
+#EXTINF:-1,  Teve Vida estados unidos
+https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
+
+#EXTINF:-1,  Aleluya TV estados unidos
+https://streamunoapp.com:3408/live/aleluyatvlive.m3u8
+
+#EXTINF:-1,  Must See estados unidos
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7617e8c1-50a3-49f7-9a0b-0c1f5073535e/4.m3u8
+
+#EXTINF:-1,  PXSports estados unidos
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BJPPHF6MXPJ7FMCSGDG5/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1,  Amor i Vida estados unidos
+https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
+
+#EXTINF:-1,  Salsa Gorda estados unidos
+https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
+
+#EXTINF:-1,  Box Gamers estados unidos
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+
+#EXTINF:-1,  Vivir Con Gatos estados unidos
+https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
+
+#EXTINF:-1,  Vivir Con Perros estados unidos
+https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
+
+#EXTINF:-1,  Moonbug Kids estados unidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
+
+#EXTINF:-1,  AFV Español estados unidos
+https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist.m3u8
+
+#EXTINF:-1,  Stream Uno estados unidos
+https://streamunoapp.com:3201/live/streamunotvlive.m3u8
+
+#EXTINF:-1,  Vida Nueva Tv
+ estados unidos
+https://ss9.domint.net:3004/vntv_str/vidanuevatv/playlist.m3u8
+
+#EXTINF:-1,  Nosey estados unidos
+https://nosey-3-us.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,  El Conflicto TV estados unidos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3961
+
+#EXTINF:-1,  Backstage estados unidos
+https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
+
+#EXTINF:-1,  Ideas En 5 estados unidos
+https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
+
+#EXTINF:-1,  Glewed TV estados unidos
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
+#EXTINF:-1,  Film & Co estados unidos
+https://daiconnect.com/live/hls/tvup/tvfy-filmco/3a89a498229b9adc9cb8ed05535ab980/index.m3u8
+
 #EXTINF:-1,  California Medios TV california estados unidos 
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8?PlaylistM3UCL
 
@@ -1792,8 +1913,23 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 #EXTINF:-1, freetv terror estados unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
+#EXTINF:-1, telemundo estados unidos
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1, Canal 21 estados unidos
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+#EXTINF:-1, Canal 21 el salvador
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
 #EXTINF:-1, Megavision salvador
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+#EXTINF:-1, canal 21 Salvador 
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1, canal seis Salvador 
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
 #EXTINF:-1,  TCS El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
@@ -1821,6 +1957,24 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1836388087.m3u8
 
 #EXTINF:-1,Canal 6 Nicaragüense nicaragua
 https://live-c.cf.dmcdn.net/sec2(aAYqMaBZwtF0O837A05fhWUjdQ3a-zxhr-q3LQC86OXkoBqXXS1nwRiFGqor5xOx47W09qZa1nDwrnPeviRutCysD5HA7MQYIQL9X_g6bD41RIVyrvgKBx-3UVMzDeeA)/dm/3/x96x78e/s/live-480.m3u8
+
+#EXTINF:-1,WIPR-TV puerto rico
+https://streamwipr.pr/hls/stream/index.m3u8?
+
+#EXTINF:-1,CDM Internacional En Vivo puerto rico
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+
+#EXTINF:-1,Telemundo puerto rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1,The Retro Channel puerto rico
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1,Salvacion TV puerto rico
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+
+#EXTINF:-1,Master Video puerto rico
+https://5fd5567570c0e.streamlock.net/222/stream/playlist.m3u8
 
 #EXTINF:-1,Nuevo Tiempo brazil 
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL

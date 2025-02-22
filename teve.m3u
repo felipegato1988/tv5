@@ -1953,10 +1953,13 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 https://live-c.cf.dmcdn.net/sec2(-xDUM4pDQZf_nJKXkexMykb1jUQLp_ng90A3Bi4wKDyLPcnUuKOXPxnhI2RKsAdKOPboSv1Rgf9OeRUnIyGFl8PILObhrPi-jFw_0cxSs1VUMJJOqg3gyH8JBpuOlofe)/dm/3/x7rwv8c/s/live-480.m3u8
 
 #EXTINF:-1,TN8 nicaragua
-https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1836388087.m3u8
+https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1,Canal 6 Nicaragüense nicaragua
 https://live-c.cf.dmcdn.net/sec2(aAYqMaBZwtF0O837A05fhWUjdQ3a-zxhr-q3LQC86OXkoBqXXS1nwRiFGqor5xOx47W09qZa1nDwrnPeviRutCysD5HA7MQYIQL9X_g6bD41RIVyrvgKBx-3UVMzDeeA)/dm/3/x96x78e/s/live-480.m3u8
+
+#EXTINF:-1, Escuchame Radio Tv Nicaragua
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
 #EXTINF:-1,WIPR-TV puerto rico
 https://streamwipr.pr/hls/stream/index.m3u8?

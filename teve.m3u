@@ -1959,9 +1959,6 @@ https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1, RNN CANAL 27 República Dominicana
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 
-#EXTINF:-1, VISION 3000  República Dominicana
-https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
-
 #EXTINF:-1,  CGTN Spanish china
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?PlaylistM3UCL
 

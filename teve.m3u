@@ -273,9 +273,6 @@ https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
 #EXTINF:-1, Oasis Tv colombia 
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
-#EXTINF:-1, Oasis Tv colombia 
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-
 #EXTINF:-1, Veo Televisión colombia 
 https://video.ejeserver.com/live/veotv.m3u8
 
@@ -372,9 +369,6 @@ https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1,  alcarria tv españa 
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Pequeradio TV españa
-http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  XHUNES-TDT españa 
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8?PlaylistM3UCL
 
@@ -431,9 +425,6 @@ https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8?PlaylistM3UC
 
 #EXTINF:-1, Diez TV Las Villas (1080p) España 
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Diez TV Úbeda (1080p) España
-https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
 #EXTINF:-1, Distrito TV (1080p) España
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
@@ -527,9 +518,6 @@ https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  promar venezuela 
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  oxigenotv venezuela 
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  panavision venezuela 
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
@@ -804,9 +792,6 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  ATV Argentina 
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  TV Mana Argentina 
-https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  bonao REP DOMINICANA 
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
 
@@ -1017,17 +1002,11 @@ https://videolatam.com:3558/stream/play.m3u8
 #EXTINF:-1,  Vclassic Tv chile 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1,  Vclassic Tv chile 
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
 #EXTINF:-1,  recuerdos retro chile 
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  CLASSICTV chile 
 https://5eaccbab48461.streamlock.net:1936/8230/ngrp:8230_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  CLASSICTV TROPICAL chile 
-https://5eaccbab48461.streamlock.net:1936/8222/8222/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  Portal Foxmix chile 
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
@@ -1073,9 +1052,6 @@ https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  CR TV chile 
 https://videolatam.com:3558/hybrid/play.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  CR TV1 chile 
-https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  ciudadanoradiotv chile 
 https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8?PlaylistM3UCL
@@ -1184,9 +1160,6 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 
 #EXTINF:-1, t13radio chile 
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, cONTEMPORANEA chile 
-https://tv.streaming-chile.com:19360/8046/8046.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, cONTEMPORANEA chile 
 https://tv.streaming-chile.com:19360/8046/8046.m3u8?PlaylistM3UCL

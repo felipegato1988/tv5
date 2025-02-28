@@ -1272,9 +1272,6 @@ https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, estado de chile 
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, estado de chile 
-https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, tv senado chile 
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 

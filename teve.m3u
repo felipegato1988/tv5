@@ -701,9 +701,6 @@ https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&Playl
 #EXTINF:-1,  garagetv argentina 
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  nettv argentina 
-https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  hybrid argentina 
 https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
 

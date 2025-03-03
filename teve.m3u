@@ -329,6 +329,9 @@ https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live
 #EXTINF:-1,  Sagrada Familia españa/camara 
 https://s124.ipcamlive.com/streams/7cxh6iezryh85pga4/stream.m3u8
 
+#EXTINF:-1, euronews españa
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/37248675-a464-4044-9e08-f4faccd94967/5.m3u8
+
 #EXTINF:-1,  C españa 
 https://streamtv2.elitecomunicacion.cloud:3738/hybrid/play.m3u8?PlaylistM3UCL
 
@@ -1860,6 +1863,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 #EXTINF:-1,  Runtime Clásicos estados unidos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
+#EXTINF:-1,  Runtime estados unidos 
+https://stream.ads.ottera.tv/cl/250303cv31mebhd25t0k7mp570/1280x720_3071200_0_f.m3u8?i=728_2550
+
 #EXTINF:-1,  Cops en Español estados unidos 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
 
@@ -2027,14 +2033,8 @@ https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1, Television Católica salvador
 https://serversv.com:8080/hls/tvcret.m3u8
 
-#EXTINF:-1,canal 4 nicaragua
-https://live-c.cf.dmcdn.net/sec2(-xDUM4pDQZf_nJKXkexMykb1jUQLp_ng90A3Bi4wKDyLPcnUuKOXPxnhI2RKsAdKOPboSv1Rgf9OeRUnIyGFl8PILObhrPi-jFw_0cxSs1VUMJJOqg3gyH8JBpuOlofe)/dm/3/x7rwv8c/s/live-480.m3u8
-
 #EXTINF:-1,TN8 nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
-
-#EXTINF:-1,Canal 6 Nicaragüense nicaragua
-https://live-c.cf.dmcdn.net/sec2(aAYqMaBZwtF0O837A05fhWUjdQ3a-zxhr-q3LQC86OXkoBqXXS1nwRiFGqor5xOx47W09qZa1nDwrnPeviRutCysD5HA7MQYIQL9X_g6bD41RIVyrvgKBx-3UVMzDeeA)/dm/3/x96x78e/s/live-480.m3u8
 
 #EXTINF:-1, Escuchame Radio Tv Nicaragua
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8

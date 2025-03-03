@@ -1716,8 +1716,8 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 #EXTINF:-1, UCL TelevisiÃ³n LATAM  | Uruguay 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, TV Ciudad   | Uruguay 
-https://vxlive.cdn.antel.net.uy/auth_V__TV_Ciudad,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfX1RWX0NpdWRhZCUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzQwMDIxMTk3JnJhbmRvbT1NOEN5TUNjbFlaJmMtaXA9MTgxLjExMy4xNTEuNDMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMjgwJnB1YmxpY19pZD0yc2dzbSw5MDU5MDhiODU0YzEyYjRhNTljYjFlOWYwYjEwOWU4MzA0YjU4OGZlOTNiMjI3NGVlNDkxMmU1NWE5MGZkMTQ2/vxfmt=hls/h_90ea08d700b9abffa951ea608e121f20/var3950000/playlist.m3u8
+#EXTINF:-1, VIVO Tv  | Uruguay 
+https://stream.vivotv.uy/hls/0/stream.m3u8
 
 #EXTINF:-1, Canal Mas| Uruguay 
 https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8

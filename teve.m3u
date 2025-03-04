@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 #EXTINF:-1, TELEMAR ECUADOR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
@@ -8,9 +9,6 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, NORTIVISION ECUADOR
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, pipoltv ECUADOR
-https://clientestv.bachistreaming.com:3492/live/pipoltvlive.m3u8?PlaylistM3UCL 
 
 #EXTINF:-1, oromartv ecuador
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
@@ -182,9 +180,6 @@ https://cdn.fastocloud.com/leonel.m3u8
 #EXTINF:-1, Cine Sureño | mexico
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 
-#EXTINF:-1, Cinema | mexico
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
-
 #EXTINF:-1, TeleFórmula| mexico
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
 
@@ -218,9 +213,6 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?P
 #EXTINF:-1,  Azteca Internacional mexico 
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Canal del Congreso 45.3 mexico 
-https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  Golden Panregional mexico 
 https://bozztv.com/gusa/gusa-goldentv/index.m3u8?PlaylistM3UCL
 
@@ -239,17 +231,11 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Canal 66 El Canal de las Noticias | Mexico
 https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 
-#EXTINF:-1, Sipse TV Cancun | HD mexico
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
-
 #EXTINF:-1, las estrellas HD mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Multicanal colombia 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/playlist.m3u8
 
 #EXTINF:-1, Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -259,9 +245,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1, Canela Familia colombia 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
-
-#EXTINF:-1, Canal Capital colombia 
-https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 
 #EXTINF:-1, TDI colombia 
 https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
@@ -308,8 +291,6 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1,  canalzoom colombia 
 https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  tele familia colombia 
-https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  tvgracia colombia 
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
@@ -325,9 +306,6 @@ https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, telepacifico colombia
 https://live-edge-bhs-1.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/live-telepacifico/index.m3u8
-
-#EXTINF:-1,  Sagrada Familia españa/camara 
-https://s124.ipcamlive.com/streams/7cxh6iezryh85pga4/stream.m3u8
 
 #EXTINF:-1, euronews españa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/37248675-a464-4044-9e08-f4faccd94967/5.m3u8
@@ -389,9 +367,6 @@ https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8?PlaylistM3UCL
 #EXTINF:-1,  Activa TV (720p) España 
 https://streamtv.mediasector.es/hls/activatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Anime Zone TV (480p) España 
-http://animezonetv.net/hls/stream.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  Burriana TV (720p) España  
 https://www.burrianateve.com/hls/btv.m3u8?PlaylistM3UCL
 
@@ -434,9 +409,6 @@ https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 #EXTINF:-1, EL PAÍS TV (1080p) España
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1, El Toro TV (720p) España
-https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-
 #EXTINF:-1, Elche 7 TV (576p) España
 https://elche7tv.gestec-video.com/hls/canal2.m3u8
 
@@ -445,6 +417,9 @@ https://video3.lhdserver.es/empordatv2/live.m3u8
 
 #EXTINF:-1, Este Canal TV (576p) España
 http://synclosdragos1.syncsolutions.es:8008/live3/emision/index.m3u8
+
+#EXTINF:-1, AZTV - Anime Zone España
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1, Fitel TV (1080p) España
 https://tv.mywifisocial.es/live.m3u8
@@ -704,9 +679,6 @@ https://signal.suyaitv.cl/live/13/playlist.m3u8?username=demo&password=001&Playl
 #EXTINF:-1,  garagetv argentina 
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  hybrid argentina 
-https://cloud5.streaminglivehd.com:3555/hybrid/play.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  Sublime Gracia argentina 
 https://5f700d5b2c46f.streamlock.net:443/sublime/sublime/playlist.m3u8?PlaylistM3UCL
 
@@ -782,9 +754,6 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?P
 #EXTINF:-1,  GAMATE TV REP DOMINICANA 
 https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  ghtelevisionlive REP DOMINICANA 
-https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  guaymatetv REP DOMINICANA 
 https://glb.bozztv.com/glb/ssh101/guaymatetv/index.m3u8?PlaylistM3UCL
 
@@ -820,9 +789,6 @@ https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 
 #EXTINF:-1,  planeta tv PERU 
 https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, turbomix PERU 
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, ondadigitaltv PERU 
 https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
@@ -932,17 +898,11 @@ http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  vmlatino COSTA RICA  
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  soyplancha COSTA RICA  
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  tvurbano COSTA RICA  
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  videotour COSTA RICA  
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  tvvintage COSTA RICA  
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, VO COSTA RICA  
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
@@ -1028,12 +988,6 @@ https://videolatam.com:3558/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1,  ciudadanoradiotv chile 
 https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  TEÑEZETA TV chile 
-https://fls.zetatv.link/TeleZeta/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  KTV chile 
-https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, EPA TV chile 
 https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL
 
@@ -1043,29 +997,17 @@ https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, FRECUENCIA UNO chile 
 https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, LTV chile 
-https://glb.bozztv.com/glb/ssh101/metamediacl/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, revolviendolaradio chile 
-https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, adiopoesia chile 
 https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, radiozona chile 
 https://premium.tvcontrolcp.com:19360/radiozona/radiozona.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, vibrafm chile 
-https://glb.bozztv.com/glb/ssh101/vibrafm/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, cygtvlive chile 
 https://tv.telselec.cl:3254/live/cygtvlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, RADIO VIDEO MIX chile 
 https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, opinionsurn chile 
-https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, zoomtec chile 
 https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM3UCL
@@ -1076,29 +1018,17 @@ https://tv.streaming-chile.com:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, apocalipsistv chile 
 https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, livertv chile 
-https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, paneltv chile 
 https://paneltv.online:1936/8040/8040/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, davidsantacruz chile 
 https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, providenciatv chile 
-https://v1.tustreaming.cl/providenciatv/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, Ztv chile 
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Rtv chile 
 https://eu1.servers10.com:8081/8162/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tv chile 
-https://5eaccbab48461.streamlock.net:1936/8058/8058/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tv1 chile 
-https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, digitalchannel chile 
 https://v4.tustreaming.cl:19360/digitalchannel/digitalchannel.m3u8?PlaylistM3UCL
@@ -1133,9 +1063,6 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1, t13radio chile 
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, cONTEMPORANEA chile 
-https://tv.streaming-chile.com:19360/8046/8046.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, Radiolabrartv chile 
 https://ssh101-fl.bozztv.com/ssh101/radiolabrartv/index.m3u8?PlaylistM3UCL
 
@@ -1148,9 +1075,6 @@ https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
 #EXTINF:-1, tv y tv chile 
 https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, 7n chile 
-https://5ff3d9babae13.streamlock.net:443/bgwrvmrdcc/bgwrvmrdcc/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, galactika-1 chile 
 https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8?PlaylistM3UCL
 
@@ -1160,9 +1084,6 @@ https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, dancefm_1 chile 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, opinion sur chile 
-https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, hiper tv chile 
 https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
 
@@ -1171,9 +1092,6 @@ https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM
 
 #EXTINF:-1, hybrid chile 
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tvprimelive chile 
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, telesalud chile 
 https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8?PlaylistM3UCL
@@ -1245,23 +1163,11 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, campo abierto tv chile 
 https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, ceroanestesiatv chile 
-https://mist.autoplayout.com/hls/ceroanestesiatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, la voz que sobran chile 
-https://unlimited1-cl-isp.dps.live/lvdlqs/lvdlqs.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, panel.tv chile 
-https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, iquiquetv chile 
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, atv chile 
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, lrp chile 
-https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, taltal tv chile 
 https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL
@@ -1271,9 +1177,6 @@ https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?Playli
 
 #EXTINF:-1, atacamatv chile 
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, alternativatv chile 
-https://ssh101-fl.bozztv.com/ssh101/alternativatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, EDTV chile 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
@@ -1302,23 +1205,11 @@ https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, CANAL 74 chile 
 https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, vcosta1 chile 
-https://premium.tvcontrolcp.com:19360/tvcosta1/tvcosta1.m3u8?PlaylistM3UCL
-
 #EXTINF:-1, girovisual2 chile 
 https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, canal2 chile 
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ssh101 chile 
-https://ssh101-fl.bozztv.com/ssh101/plazatv2/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tvr chile 
-https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, zonadeprensa chile 
-https://stmv5.voxtvhd.com.br/zonadeprensa/zonadeprensa/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, primiciavida chile 
 https://stmv5.voxtvhd.com.br/primiciavida/primiciavida/playlist.m3u8?PlaylistM3UCL
@@ -1346,9 +1237,6 @@ https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?Playlist
 
 #EXTINF:-1, tv5linares chile 
 https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, CONTIVISION chile 
-https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, molinatv chile 
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL
@@ -1382,9 +1270,6 @@ https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, canal 9 chile 
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, TV8 chile 
-https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, pacificotelevision chile 
 https://oracle.streaminghd.cl/pacificotelevision/pacificotelevision/playlist.m3u8?PlaylistM3UCL
@@ -1425,9 +1310,6 @@ https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?Playli
 #EXTINF:-1,  vision tv radio chile 
 https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  canal5 chile 
-https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  hito cero chile 
 https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8?PlaylistM3UCL
 
@@ -1458,9 +1340,6 @@ https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  monterrico chile 
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
 
-#EXTINF:-1,  tvcosta2 chile 
-https://premium.tvcontrolcp.com:19360/tvcosta2/tvcosta2.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  carolinatv2 chile 
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -1478,9 +1357,6 @@ https://streamdemo.dyndns.biz/hls/edelweiss_src.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  radioaraucania chile 
 https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  acojida tv chile 
-https://videostream.chileservidores.com:8081/chiloe3/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  urban pro chile 
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
@@ -1517,9 +1393,6 @@ https://us.streaminghd.cl/radiomagallanes/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  maquiradio chile 
 https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  popular fm chile 
-https://tv.streaming-chile.com:19360/8052/8052.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  emociontv chile 
 https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
@@ -1572,9 +1445,6 @@ https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,  ninatv chile 
 https://stream.skarnetchile.com:19360/ninatv/ninatv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  aeradio chile 
-https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  metropolitanatv chile 
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -1608,7 +1478,7 @@ https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,  isb chile 
 https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  panelchs chile 
+#EXTINF:-1,  panelchs chile
 https://cp.panelchs.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  transmissaodigital chile 
@@ -1616,9 +1486,6 @@ https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM
 
 #EXTINF:-1,  fortalezatv chile 
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  multimedia fortalezatv chile 
-https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  voxtv chile 
 https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8?PlaylistM3UCL
@@ -1884,17 +1751,11 @@ https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1,  Canela TV estados unidos
 https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
 
-#EXTINF:-1,  Planeta de Aventuras estados unidos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=431
-
 #EXTINF:-1,  3ABN LATINO estados unidos
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 #EXTINF:-1,  CBN Español estados unidos
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
-
-#EXTINF:-1,  Haz Clic! estados unidos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4310
 
 #EXTINF:-1,  La Mega Mundial estados unidos
 https://server40.servistreaming.com:3477/stream/play.m3u8
@@ -1928,9 +1789,6 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1,  Vivir Con Perros estados unidos
 https://d2hv77yguxdxtu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9vniibmo9geug-ssai-prd/fast-channel-vivir-con-perros.m3u8
-
-#EXTINF:-1,  Moonbug Kids estados unidos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3365
 
 #EXTINF:-1,  AFV Español estados unidos
 https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist.m3u8

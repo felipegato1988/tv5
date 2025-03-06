@@ -321,7 +321,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1,  algecirastv españa 
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1,  cadena elite españa 
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
 
@@ -694,6 +693,9 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1,  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, panc tv
+https://panel.host-live.com:19360/20000/20000.m3u8
+
 #EXTINF:-1, TV Perú PERU
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
@@ -768,6 +770,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 
 #EXTINF:-1, IPE PERU
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, punto tv bolivia
+https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 
 #EXTINF:-1, TVU bolivia
 https://s1.tvdatta.com:3557/live/tvulive.m3u8
@@ -1821,4 +1826,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
+
+#EXTINF:-1, stv
+https://lstv.duckdns.org:449/hls/stv.m3u8
+
+#EXTINF:-1, retroTv
+https://stream.streamtech.com.co:5443/retroTv/streams/PtJONjPnRzie1792962647993731.m3u8
 

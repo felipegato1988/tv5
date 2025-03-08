@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1, TELEMAR ECUADOR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
@@ -95,6 +94,9 @@ https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
 #EXTINF:-1,  Canal 5 STV San Vito | Ecuador 
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
+
+#EXTINF:-1,  telerama | Ecuador
+https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-1, crealatv | mexico
 https://stream8.mexiserver.com:19360/crealatv/crealatv.m3u8
@@ -1804,3 +1806,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
+
+

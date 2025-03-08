@@ -1,3 +1,4 @@
+
 #EXTM3U
 #EXTINF:-1, TELEMAR ECUADOR
 https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
@@ -895,6 +896,9 @@ https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1,  Istmo Tv Panama  
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
 
+#EXTINF:-1, Canal Holvoet TV chile
+https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8?nimblesessionid=45005231
+
 #EXTINF:-1, Teletrack chile 
 https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
 
@@ -1257,9 +1261,6 @@ https://stmv5.voxtvhd.com.br/radiolaserena/radiolaserena/playlist.m3u8?PlaylistM
 #EXTINF:-1,  grupomedia chile 
 https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  universal chile 
-https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1,  ibanez chile 
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
 
@@ -1268,9 +1269,6 @@ https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  fiesta-video-01 chile 
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
-
-#EXTINF:-1,  alingeproducciones chile 
-https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  radiofavoritatv chile 
 https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
@@ -1425,9 +1423,6 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Jehova Tv En Vivo Honduras
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
-#EXTINF:-1,canal unicanal paraguay
-https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=89f9ea64826f73a22594f02cb4db264ca6bfa2efd1e3f95a123fd2a6dd85f773&exp=1741385299
-
 #EXTINF:-1, Trece paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/chunklist_w1941086239.m3u8?k=7193250cb29d242cf7e35d17d66edca608abf239b29dd4720c22706254ff1fd3&exp=1741130054
 
@@ -1490,9 +1485,6 @@ https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 #EXTINF:-1,  Carivisión República Dominicana
 https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
-
-#EXTINF:-1,  Amé 47 República Dominicana 
-https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
 
 #EXTINF:-1,  bonao República Dominicana
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8?PlaylistM3UCL
@@ -1844,3 +1836,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
+
+

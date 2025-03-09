@@ -98,6 +98,18 @@ https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1,  telerama | Ecuador
 https://envivo.telerama.ec/stream.m3u8
 
+#EXTINF:-1, telemax | mexico
+https://s5.mexside.net:1936/telemax/telemax/.m3u8
+
+#EXTINF:-1, az uno | mexico
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
+
+#EXTINF:-1, adn40 | mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1, estrellatv | mexico
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
 #EXTINF:-1, crealatv | mexico
 https://stream8.mexiserver.com:19360/crealatv/crealatv.m3u8
 
@@ -299,6 +311,9 @@ https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1, tv3cat Cataluña españa
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
 
 #EXTINF:-1, Canal FAMYPANC TV españa
 https://panel.host-live.com:19360/8042/8042.m3u8
@@ -524,6 +539,8 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, Oxigeno Network  | Venezuela 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1, Unife argentina
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
@@ -1732,6 +1749,9 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1, Escuchame Radio Tv Nicaragua
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
+#EXTINF:-1, megatv puerto rico
+https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
+
 #EXTINF:-1, vision 300  puerto rico
 https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
 
@@ -1806,5 +1826,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
+
+
+
 
 

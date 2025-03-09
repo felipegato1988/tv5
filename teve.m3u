@@ -1,69 +1,63 @@
+
 #EXTM3U
-#EXTINF:-1, TELEMAR ECUADOR
-https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, PURUWA TV ECUADOR
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,  america estere oquito Ecuador 
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, oromartv ecuador
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, ciracutv ecuador
-https://cloud37.ecuatel.com/ciracutv/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,  Asomavision | Ecuador 
+https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, australtv ecuador
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, teleamazonas ecuador
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
+#EXTINF:-1,  Canal 5 STV San Vito | Ecuador 
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
-#EXTINF:-1, zacaray ecuador
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,  Canal GM7 DIGITAL | Ecuador 
+https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
-#EXTINF:-1, vos y tv ecuador
-https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, tv color ecuador
-https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, sonovision tv ecuador
-https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, señal positiva  tv ecuador
-https://eu1.servers10.com:8081/8108/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, rtrtv ecuador
-https://tv3ecuador.site/hls/stream.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, nukatv ecuador
-https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, majestadtv ecuador
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, latacunga tv ecuador
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamlatacungatv/chunks.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, hechos tv ecuador
-https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, educa tv ecuador 
-https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
+#EXTINF:-1, ciracutv ecuador
+https://cloud37.ecuatel.com/ciracutv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, curiquingue ecuador
 https://video2.lhdserver.es/pjtv/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, uno ecuador
-https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
+#EXTINF:-1, ecoteltv ecuador 
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, tvc ecuador
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1, Ecuador TV
+#EXTINF:-1, Ecuador TV ecuador
 https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, rtu ecuador 
-https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, ecuavisa ecuador 
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
+
+
+#EXTINF:-1, educa tv ecuador 
+https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  Recuerdos Retro ecuador 
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  telerama | Ecuador
+https://envivo.telerama.ec/stream.m3u8
+
+#EXTINF:-1, hechos tv ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, latacunga tv ecuador
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamlatacungatv/chunks.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, majestadtv ecuador
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, nukatv ecuador
+https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, oromartv ecuador
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, PURUWA TV ECUADOR
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, retroplus tv ecuador 
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCLL
@@ -74,29 +68,38 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, retroplus tv 3 ecuador 
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCLL
 
-#EXTINF:-1, ecoteltv ecuador 
-https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
+#EXTINF:-1, rtrtv ecuador
+https://tv3ecuador.site/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1, ecuavisa ecuador 
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
+#EXTINF:-1, rtu ecuador 
+https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  america estere oquito Ecuador 
-https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, sonovision tv ecuador
+https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Recuerdos Retro ecuador 
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, teleamazonas ecuador
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Asomavision | Ecuador 
-https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1, TELEMAR ECUADOR
+https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Canal GM7 DIGITAL | Ecuador 
-https://s2.tvdatta.com:3858/hybrid/play.m3u8
+#EXTINF:-1, tv color ecuador
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  Canal 5 STV San Vito | Ecuador 
-https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
+#EXTINF:-1, tvc ecuador
+https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  telerama | Ecuador
-https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-1, uno ecuador
+https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, vos y tv ecuador
+https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, zacaray ecuador
+https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 #EXTINF:-1, telemax | mexico
 https://s5.mexside.net:1936/telemax/telemax/.m3u8
@@ -157,9 +160,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
 
 #EXTINF:-1, C9NTV | mexico
 https://cloudvideo.servers10.com:8081/8030/index.m3u8
-
-#EXTINF:-1, Corazón | mexico
-https://amg00658-amg00658c57-canelatv-international-5437.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-corazontvaztecaappta-canelatvinternational/playlist.m3u8
 
 #EXTINF:-1, TVMÁS | mexico
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8

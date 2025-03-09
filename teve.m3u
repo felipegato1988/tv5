@@ -1,4 +1,3 @@
-
 #EXTM3U
 
 #EXTINF:-1,  america estere oquito Ecuador 
@@ -313,14 +312,8 @@ https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1, tv3cat Cataluña españa
-https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_7.m3u8
-
 #EXTINF:-1, Canal FAMYPANC TV españa
 https://panel.host-live.com:19360/8042/8042.m3u8
-
-#EXTINF:-1, 3/24 españa
-https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
 
 #EXTINF:-1, Tv Melilla españa
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
@@ -1875,3 +1868,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
+
+

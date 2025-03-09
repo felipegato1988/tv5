@@ -245,6 +245,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1,Canal Capital colombia 
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
 
@@ -708,6 +709,15 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 #EXTINF:-1,  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, exitosa PERU
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
+
+#EXTINF:-1, willax PERU
+https://live-c2.cf.dmcdn.net/sec2(inWlLHNclXAFu7tF8yty-tQiVmnn3HKcKhwQZRAOLXAoeDqHrJC-nFvDZMIfJOZSYu5_JiIvNIrMyPtpzoIQ8ANUVWwFEz8rExWy__1nvBkdu5EKn0b-v_YBYs971mL2)/cloud/3/x7x4dgx/s/live-480.m3u8
+
+#EXTINF:-1, atv sur PERU
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1, panc tv PERU
 https://panel.host-live.com:19360/20000/20000.m3u8
 
@@ -812,6 +822,11 @@ https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  	turrialba TV BOLIVIA 
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+#EXTINF:-1, trivision COSTA RICA
+https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
+
+#EXTINF:-1, repretel COSTA RICA
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1, Ultrazona TV COSTA RICA  
 https://acceso.radiosportstv.online:3089/hybrid/play.m3u8
@@ -876,6 +891,19 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, luz naciente COSTA RICA  
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, nextv PANAMA
+https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8
+
+#EXTINF:-1,  telemetro PANAMA
+https://live-b2.cf.dmcdn.net/sec2(fQfBOcnhkke_qGgzGCEAQ_UjJeO62UI6PWYBlsXe10i1g-3fprF69GtzXIIOy-q3MkomTXa4AUgtqZnS6gSS9UchjeOgUFXaHxoPruolbcdsNjQem6xz-tqr5D0i5Xt3)/cloud/3/x8nlwwo/s/live-720.m3u8
+
+
+#EXTINF:-1,  rpctv PANAMA
+https://live-c2.cf.dmcdn.net/sec2(_kAfUwOX3xVRjF7pGT3KXAveK7Olr2ZCDBTnZtSLXuBFmqyfK_9CkUmfEg4lUPetFihNhftp_95lgEH11uYR6d8OFkdz3a_7Go0OGI0HFjSZincKbhAI0r23_j5zdJhJ)/cloud/3/x8lwrcd/s/live-720.m3u8
+
+#EXTINF:-1,  oyetv PANAMA
+https://live-b2.cf.dmcdn.net/sec2(woYWQat1z6J5bq8liY7RTofffJUWjA_zaZblENkZx5vPLTobHem2LED0HU1ECLQEbzmCyUeBQxFtyhVJdlML4CMIJxEX-O78APFvYhARSzia4fO1H2w5DTlsUqccLqfy)/cloud/3/x8odgha/s/live-720.m3u8
 
 #EXTINF:-1,  +23 TV PANAMA 
 https://vcp8.myplaytv.com:1936/mas23/mas23/playlist.m3u8
@@ -1413,6 +1441,12 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Jehova Tv En Vivo Honduras
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
+#EXTINF:-1, unicanal paraguay
+https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=fd502f9a18625eedf8ea4ee78016c2d19de021575551fd32027edb534f80c8be&exp=1741548147
+
+#EXTINF:-1, megatv paraguay
+https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
 #EXTINF:-1, Trece paraguay
 https://rds3gen.desdeparaguay.net/trecetv/trecetv_alta/chunklist_w1941086239.m3u8?k=7193250cb29d242cf7e35d17d66edca608abf239b29dd4720c22706254ff1fd3&exp=1741130054
 
@@ -1430,6 +1464,12 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 
 #EXTINF:-1, Canal Marti cuba
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
+
+#EXTINF:-1, chapin 3 guatemala
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1, chapin 7 guatemala
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1, Canal 27 guatemala
 https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
@@ -1722,6 +1762,12 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 #EXTINF:-1, telemundo estados unidos
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
+#EXTINF:-1, tutv Salvador
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+
+#EXTINF:-1, canal2 Salvador
+https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
+
 #EXTINF:-1, canal seis Salvador 
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
@@ -1826,8 +1872,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
-
-
-
-
-

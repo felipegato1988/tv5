@@ -309,6 +309,9 @@ https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
+#EXTINF:-1,  XHUNES-TDT españa 
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8?PlaylistM3UCL
+
 #EXTINF:-1, Canal FAMYPANC TV españa
 https://panel.host-live.com:19360/8042/8042.m3u8
 
@@ -531,7 +534,14 @@ https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, Oxigeno Network  | Venezuela 
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,  litustv argentina 
+https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,  canal 12 argentina 
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, Terra Mia TV argentina 
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1, Unife argentina
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
@@ -698,6 +708,12 @@ https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1, ok tv PERU 
+https://live.obslivestream.com/oktv/video.m3u8?token=Bk-DXAXulO1OV0&PlaylistM3UCL
+
+#EXTINF:-1, Antares TV PERU 
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, exitosa PERU
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8
@@ -1865,5 +1881,4 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
-
 

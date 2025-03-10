@@ -30,6 +30,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, ecuavisa ecuador 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
+
 #EXTINF:-1, educa tv ecuador 
 https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
 
@@ -95,6 +96,9 @@ https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, zacaray ecuador
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 #EXTINF:-1, telemax | mexico
 https://s5.mexside.net:1936/telemax/telemax/.m3u8
@@ -237,8 +241,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1,Canal Capital colombia 
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+
 
 #EXTINF:-1, Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -792,6 +798,9 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 
 #EXTINF:-1, IPE PERU
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,  ATB Tv bolivia
+http://186.121.206.197/live/daniel/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, punto tv bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
@@ -1405,6 +1414,9 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1, VIVO Tv  | Uruguay 
 https://stream.vivotv.uy/hls/stream.m3u8
 
+#EXTINF:-1, SI TV En Vivo Honduras
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
 #EXTINF:-1, TeleProgreso Honduras
 https://tv.webmedialive.com/teleprogreso2/live/playlist.m3u8
 
@@ -1441,6 +1453,9 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1,Jehova Tv En Vivo Honduras
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
+#EXTINF:-1,Enlace TV En Vivo paraguay
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
 #EXTINF:-1, unicanal paraguay
 https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=fd502f9a18625eedf8ea4ee78016c2d19de021575551fd32027edb534f80c8be&exp=1741548147
 
@@ -1476,6 +1491,9 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 #EXTINF:-1, TN23 guatemala
 https://d4bee8qaav6x0.cloudfront.net/360p.m3u8
+
+#EXTINF:-1, Celestial  República Dominicana
+https://5790d294af2dc.streamlock.net/celestial/celestial/playlist.m3u8
 
 #EXTINF:-1, Canal 55 Super TV República Dominicana
 https://ss2.domint.net:3236/stv_str/supertv55/chunklist_w545121091.m3u8
@@ -1761,6 +1779,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playli
 
 #EXTINF:-1, telemundo estados unidos
 https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+
+#EXTINF:-1, Canal 21 el salvador
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 #EXTINF:-1, tutv Salvador
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8

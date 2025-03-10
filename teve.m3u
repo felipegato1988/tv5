@@ -30,7 +30,6 @@ https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, ecuavisa ecuador 
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
-
 #EXTINF:-1, educa tv ecuador 
 https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
 
@@ -96,9 +95,6 @@ https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
 
 #EXTINF:-1, zacaray ecuador
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
-
-
-
 
 #EXTINF:-1, telemax | mexico
 https://s5.mexside.net:1936/telemax/telemax/.m3u8
@@ -241,10 +237,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
-
 #EXTINF:-1,Canal Capital colombia 
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
-
 
 #EXTINF:-1, Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -1881,4 +1875,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1, bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
-

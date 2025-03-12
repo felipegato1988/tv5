@@ -1812,9 +1812,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1, wapptv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/229b9763-8b85-42e5-89e1-9ae31273348f/2.m3u8
 
-#EXTINF:-1, box cinema
-https://dr2t9f8nivbc6.cloudfront.net/hls/WU7MFTA/47ACBB024F87/m.m3u8
-
 #EXTINF:-1, cinerama
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 

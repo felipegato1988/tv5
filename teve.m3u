@@ -241,6 +241,11 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
+#EXTINF:-1,  Salsa Gorda colombia
+https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
+
+#EXTINF:-1, Veo Televisión colombia 
+https://video.ejeserver.com/live/veotv.m3u8
 
 #EXTINF:-1,Canal Capital colombia 
 https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
@@ -1647,9 +1652,6 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1,  Amor i Vida estados unidos
 https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
-
-#EXTINF:-1,  Salsa Gorda estados unidos
-https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
 
 #EXTINF:-1,  Box Gamers estados unidos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8

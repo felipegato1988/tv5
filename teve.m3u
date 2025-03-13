@@ -452,9 +452,6 @@ http://amaru.dyndns.org:8870/0.m3u8
 #EXTINF:-1, Onda Algeciras TV (576p) España
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
-#EXTINF:-1, Onda Valencia (720p) España
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-
 #EXTINF:-1, elemadrid Internacional (720p) España
 https://new-international-23-secure2.akamaized.net/index.m3u8
 

@@ -299,6 +299,9 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1,  tvgracia colombia 
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1, Onda Valencia (720p) España
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+
 #EXTINF:-1,  tvpenol colombia 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 

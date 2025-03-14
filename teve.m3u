@@ -562,7 +562,6 @@ https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 #EXTINF:-1 group-title="tv argentina ",  TV La Voz Del Desierto argentina 
 https://stmv5.livecastv.com/vozdeldesierto/vozdeldesierto/playlist.m3u8
 
-
 #EXTINF:-1 group-title="tv argentina ",  Canal Orbe 21 argentina 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
 
@@ -698,7 +697,7 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",   cosmos argentina 
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,  TV Mana argentina 
+#EXTINF:-1 group-title="tv argentina ",  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv PERU ",  ok tv PERU 
@@ -818,70 +817,70 @@ https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv bolivia ", turrialba TV BOLIVIA 
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA",  trivision COSTA RICA
+#EXTINF:-1 group-title="tv COSTA RICA ",   trivision COSTA RICA
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="tv COSTA RICA",  repretel COSTA RICA
+#EXTINF:-1 group-title="tv COSTA RICA ",   repretel COSTA RICA
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA",  Ultrazona TV COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   Ultrazona TV COSTA RICA  
 https://acceso.radiosportstv.online:3089/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA", Voice Over Radio TV COSTA RICA 
+#EXTINF:-1 group-title="tv COSTA RICA ",  Voice Over Radio TV COSTA RICA 
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA",  Canal Telesistema COSTA RICA 
+#EXTINF:-1 group-title="tv COSTA RICA ",   Canal Telesistema COSTA RICA 
 https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA",  Canal Telered COSTA RICA 
+#EXTINF:-1 group-title="tv COSTA RICA ",   Canal Telered COSTA RICA 
 https://glb.bozztv.com/glb/ssh101/teleredmastv/index.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA", Enlace TV En Vivo COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  Enlace TV En Vivo COSTA RICA  
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA", Playa Hermosa Costa COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  Playa Hermosa Costa COSTA RICA  
 https://cams.cdn-surfline.com/cdn-ec/cr-playahermosa/chunklist.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA", canal1 COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  canal1 COSTA RICA  
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  canal8 COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   canal8 COSTA RICA  
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  C9NTV COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   C9NTV COSTA RICA  
 https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  limontv COSTA RICA  
+##EXTINF:-1 group-title="tv COSTA RICA ",   limontv COSTA RICA  
 http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA", nicoyatv COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  nicoyatv COSTA RICA  
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  n COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  n COSTA RICA  
 https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  TVNOSARA COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  TVNOSARA COSTA RICA  
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  TVSUR COSTA RICA  
+##EXTINF:-1 group-title="tv COSTA RICA ",  TVSUR COSTA RICA  
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  vmlatino COSTA RICA  
+##EXTINF:-1 group-title="tv COSTA RICA ",   vmlatino COSTA RICA  
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA", tvurbano COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  tvurbano COSTA RICA  
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA",  videotour COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   videotour COSTA RICA  
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA", VO COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  VO COSTA RICA  
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA", CableLatino COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  CableLatino COSTA RICA  
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA", luz naciente COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  luz naciente COSTA RICA  
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv PANAMA", nextv PANAMA

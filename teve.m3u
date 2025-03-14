@@ -862,10 +862,10 @@ https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv COSTA RICA ",  TVNOSARA COSTA RICA  
 https://acceso.radiosportstv.online:3430/hybrid/play.m3u8?PlaylistM3UCL
 
-##EXTINF:-1 group-title="tv COSTA RICA ",  TVSUR COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  TVSUR COSTA RICA  
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL
 
-##EXTINF:-1 group-title="tv COSTA RICA ",   vmlatino COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   vmlatino COSTA RICA  
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv COSTA RICA ",  tvurbano COSTA RICA  

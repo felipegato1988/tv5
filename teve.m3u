@@ -1581,8 +1581,6 @@ https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
 #EXTINF:-1,  CGTN Spanish china
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1,  France 24 Espanol francia 
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8?PlaylistM3UCL
 
@@ -1615,7 +1613,6 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1,  Telemundo 51 Miami  estados unidos 
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
-
 
 #EXTINF:-1,  Cops en Español estados unidos 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
@@ -1665,7 +1662,6 @@ https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
 #EXTINF:-1,  Box Gamers estados unidos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
 
-
 #EXTINF:-1,  AFV Español estados unidos
 https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist.m3u8
 
@@ -1702,12 +1698,8 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 #EXTINF:-1, mi tv clásica estados Unidos 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1, freetv banda estados unidos
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
-
-
 
 #EXTINF:-1, freetv familia estados unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
@@ -1795,8 +1787,6 @@ https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8?PlaylistM3UCL
 #EXTINF:-1, orbittv
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1, glewedtv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/8f3fe5c9-d4bb-4a90-a559-36d646207cf9/2.m3u8
 
@@ -1808,8 +1798,6 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 
 #EXTINF:-1, must see
 https://dr2t9f8nivbc6.cloudfront.net/hls/RSCWGDI/F314587BBFA/m.m3u8
-
-
 
 #EXTINF:-1, stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -1865,7 +1853,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 #EXTINF:-1 group-title="TV TEMÁTICA",  Misterios Médicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
 #EXTINF:-1 group-title="TV TEMÁTICA",  Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -1883,8 +1870,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61099f2b4
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Pluto TV Diseño
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64db2e0835425100080f2f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
 
 #EXTINF:-1 group-title="TV TEMÁTICA", Pluto TV Recetas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609062295c2b8f0007199e7a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1904,11 +1889,8 @@ https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1
 #EXTINF:-1 group-title="TV TEMÁTICA",  Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
 
-
 #EXTINF:-1 group-title="TV TEMÁTICA",  Power Nation
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="TV TEMÁTICA", Mi Coche Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1916,21 +1898,19 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536f
 #EXTINF:-1 group-title="TV TEMÁTICA", 391 Sangre fría
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 392 Pluto TV Investiga
+#EXTINF:-1 group-title="TV TEMÁTICA", Pluto TV Investiga
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 393 Cazador de Homicidas
+#EXTINF:-1 group-title="TV TEMÁTICA",  Cazador de Homicidas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6109a9f5531b840007a4a187/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-
-#EXTINF:-1 group-title="TV TEMÁTICA", 395 Archivos Forenses
+#EXTINF:-1 group-title="TV TEMÁTICA",  Archivos Forenses
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 396 The New Detectives
+#EXTINF:-1 group-title="TV TEMÁTICA",  The New Detectives
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 397 Misterios sin Resolver
+#EXTINF:-1 group-title="TV TEMÁTICA",  Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Runtime Familia
@@ -1955,141 +1935,128 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6126
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 542 Pluto TV Nuestro Cine
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Nuestro Cine
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 544 Pluto TV Cine Acción
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Pluto TV Cine Acción
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 545 Estrellas de Acción
+#EXTINF:-1 group-title= "CINE Y ENTRETENIMIENTO",  Estrellas de Acción
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 546 Pluto TV Cine Terror
+#EXTINF:-1 group-title= "CINE Y ENTRETENIMIENTO",  Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 548 Pluto TV Cine Suspenso
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Pluto TV Sci-Fi
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Suspenso
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 549 Pluto TV Cine Crimen
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Crimen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/624af40c004f8000079b784d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 550 Pluto TV Cine Drama
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 560 Free TV Estelar
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Free TV Estelar
 https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=tucine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853984&id=2618&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=RsMxdy7%2BeSxr0SmjTI7P0wdl%2B0U9yDVHKi%2FXPUo5oxY%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=tucine&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 561 Free TV Drama
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Free TV Drama
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 562 Free TV Live
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Free TV Live
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 563 Free TV Acción
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Free TV Acción
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", 564 Free TV Terror
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Free TV Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
-#EXTINF:-1, romance tv
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", romance tv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/bfdb8a85-0079-4fb6-ad25-24527b6caf2d/0.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 601 Canela Telenovelas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 604 Pluto TV Novelas 
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Pluto TV Novelas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 605 Novelas Mexicanas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Mexicanas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 606 Novelas Venezolanas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Venezolanas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 607 Novelas Colombianas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Colombianas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 620 BBC Drama
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", BBC Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 640 Novelas Turcas
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS",  Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 641 Corazón Turco
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Corazón Turco
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b3e21d56fee300087e4cba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 642 Kanal D Drama
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS",  Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", 690 Dramas Coreanos
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Dramas Coreanos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 701 Nickelodeon Clásico
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Retro Cartoons
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Nickelodeon Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 730 Familia del Barrio
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Familia del Barrio
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 750 Pluto TV Anime
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Bob Esponja
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Anime Acción
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", 752 Death Note
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-
-#EXTINF:-1 group-title="DEPORTES", 805 beIN Sports Xtra Ñ
+#EXTINF:-1 group-title="DEPORTES", beIN Sports Xtra Ñ
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 806 ITV Deportes
+#EXTINF:-1 group-title="DEPORTES", ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 807 AYM Sports
+#EXTINF:-1 group-title="DEPORTES", AYM Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
-#EXTINF:-1 group-title="DEPORTES", 808 Azteca Deportes
+#EXTINF:-1 group-title="DEPORTES", Azteca Deportes
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-#EXTINF:-1 group-title="DEPORTES", 822 Real Madrid TV
+#EXTINF:-1 group-title="DEPORTES", Real Madrid TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-#EXTINF:-1 group-title="DEPORTES", 850 NFL Network
+#EXTINF:-1 group-title="DEPORTES", NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES", 860 Pluto TV Peleas
+#EXTINF:-1 group-title="DEPORTES", Pluto TV Peleas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-
-
-#EXTINF:-1 group-title="DEPORTES", 867 Lucha Libre AAA
+#EXTINF:-1 group-title="DEPORTES", Lucha Libre AAA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DEPORTES", 868 CombaTV
+#EXTINF:-1 group-title="DEPORTES", CombaTV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
-
-#EXTINF:-1 group-title="DEPORTES", 890 Pluto TV E-sports
+#EXTINF:-1 group-title="DEPORTES", Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-
-
-
-
-
-
-
-
-
-
-
-
-

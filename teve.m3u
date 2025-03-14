@@ -1807,13 +1807,13 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 group-title=" VARIADO ",  Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 
-#EXTINF:-1 group-title=" VARIADO ",  hits mexicanos
+#EXTINF:-1 group-title=" MUSICA ",  hits mexicanos
 https://dr2t9f8nivbc6.cloudfront.net/hls/WJMERAY/3F13C2D5DEBB/m.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",  trace latina
+#EXTINF:-1 group-title=" MUSICA ",  trace latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/3db7d36d-7f36-4d63-8e79-0ce13ac81e35/3.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",  bocina latina
+#EXTINF:-1 group-title=" MUSICA ",  bocina latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/la-bocina-latina/f13e6401-ce9f-4403-af4f-017ade94adcf/0.m3u8
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Saber más

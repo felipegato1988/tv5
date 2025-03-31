@@ -800,7 +800,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 #EXTINF:-1 group-title="tv PERU ",  IPE PERU
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ",  punto tv bolivia
+#EXTINF:-1 group-title="tv bolivia ",  punto tv bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="tv bolivia ",  TVU bolivia

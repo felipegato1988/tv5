@@ -76,6 +76,9 @@ https://tv3ecuador.site/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv Ecuador ", rtu ecuador 
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="tv Ecuador ", rts ecuador 
+https://d27a7brtx3v90o.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd27a7brtx3v90o.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22d07ff389-26b7-449a-8b3f-f420e96a5861%22
+
 #EXTINF:-1 group-title="tv Ecuador ", sonovision tv ecuador
 https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
@@ -93,6 +96,9 @@ https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", tc ecuador
 https://live-c.cf.dmcdn.net/sec2(Dh9XjH53HxuweKBIV6wKSO8ie3Va5t3dByh4Jkhsst64DlajIhOh4fVihDFnYZfaUSW3iuVQCiRGjcKjT1HHegOrVOieo9NVfbaxhaYjL1FANxViaw7bBPuZSLOwZjqS)/dm/3/x7wijay/d/live-480.m3u8
+
+#EXTINF:-1 group-title="tv Ecuador ", gamavision ecuador
+https://stream.esradioecuador.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", uno ecuador
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL

@@ -16,6 +16,9 @@ https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1 group-title="tv Ecuador ",  Canal GM7 DIGITAL | Ecuador 
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
+#EXTINF:-1 group-title="tv Ecuador ",  Canal sur| Ecuador 
+https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
+
 #EXTINF:-1 group-title="tv Ecuador ", ciracutv ecuador
 https://cloud37.ecuatel.com/ciracutv/live/playlist.m3u8?PlaylistM3UCL
 

@@ -4,6 +4,12 @@
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="tv Ecuador ", CATOMEDIA Ecuador 
+https://stream.catomedia.net/catomedia-app/index.m3u8
+
+#EXTINF:-1 group-title="tv Ecuador ", NORTIVISION Ecuador 
+https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
+
 #EXTINF:-1 group-title="tv Ecuador ",  Asomavision | Ecuador 
 https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
@@ -108,6 +114,9 @@ https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", zacaray ecuador
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8

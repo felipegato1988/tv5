@@ -1606,7 +1606,7 @@ https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", Multivisión  República Dominicana
 https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana ", Cotui Tv Canal 22  República Dominicana
+#EXTINF:-1 group-title="tv República Dominicana", Cotui Tv Canal 22  República Dominicana
 https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 
 #EXTINF:-1 group-title="tv República Dominicana", Telebendicion República Dominicana
@@ -1621,7 +1621,7 @@ https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", SRC Media  República Dominicana
 https://video.misistemareseller.com/srctv/srctv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana ", Hilando Fino República Dominicana
+#EXTINF:-1 group-title="tv República Dominicana", Hilando Fino República Dominicana
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 
 #EXTINF:-1 group-title="tv República Dominicana", RNN CANAL 27 República Dominicana
@@ -1648,7 +1648,7 @@ https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?Pla
 #EXTINF:-1 group-title="tv RUCIA ", RT en Espanol rucia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv RUCIA", TV BRICS rucia
+#EXTINF:-1 group-title="tv RUCIA ", TV BRICS rucia
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
 #EXTINF:-1 group-title="tv IRAN ",  HispanTV Irán
@@ -1792,7 +1792,7 @@ https://glb.bozztv.com/glb/ssh101/OrbitaFM953/index.m3u8
 #EXTINF:-1 group-title="tv salvador ", Television Católica salvador
 https://serversv.com:8080/hls/tvcret.m3u8
 
-#EXTINF:-1 group-title="tv nicaragua  ", TN8 nicaragua
+#EXTINF:-1 group-title="tv nicaragua ", TN8 nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 group-title="tv nicaragua ", Escuchame Radio Tv Nicaragua

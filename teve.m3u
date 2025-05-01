@@ -1663,13 +1663,13 @@ https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 #EXTINF:-1 group-title="tv Estados unidos ",  Telemundo 51 Miami  estados unidos 
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos  ",  Cops en Español estados unidos 
+#EXTINF:-1 group-title="tv Estados unidos ", Cops en Español estados unidos 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ",  BJGTJME estados unidos 
 https://amogonetworx-bigtjme-2-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos  ",  Power Nation estados unidos 
+#EXTINF:-1 group-title="tv Estados unidos ",  Power Nation estados unidos 
 https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlist/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ",  FOX Spots estados unidos 
@@ -1681,7 +1681,7 @@ https://amogonetworx-artflix-3-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="tv Estados unidos ",  Canela TV estados unidos
 https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos  ",  3ABN LATINO estados unidos
+#EXTINF:-1 group-title="tv Estados unidos ", 3ABN LATINO estados unidos
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ", CBN Español estados unidos
@@ -1690,7 +1690,7 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 #EXTINF:-1 group-title="tv Estados unidos ",  La Mega Mundial estados unidos
 https://server40.servistreaming.com:3477/stream/play.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos  ",  Marti Tv estados unidos
+#EXTINF:-1 group-title="tv Estados unidos ", Marti Tv estados unidos
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/master.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ",  Teve Vida estados unidos
@@ -1699,7 +1699,7 @@ https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/playlist.m3u8
 #EXTINF:-1 group-title="tv Estados unidos ",  Aleluya TV estados unidos
 https://streamunoapp.com:3408/live/aleluyatvlive.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos  ",  Must See estados unidos
+#EXTINF:-1 group-title="tv Estados unidos ", Must See estados unidos
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7617e8c1-50a3-49f7-9a0b-0c1f5073535e/4.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ",  PXSports estados unidos

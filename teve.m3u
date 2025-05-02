@@ -1850,19 +1850,13 @@ http://185.189.225.150:85/neox/index.m3u8
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ", orbittv
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title=" VARIADO ", glewedtv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/8f3fe5c9-d4bb-4a90-a559-36d646207cf9/2.m3u8
+https://vdo2.streamgato.us:3670/live/orbittvlive.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ", wapptv
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/229b9763-8b85-42e5-89e1-9ae31273348f/2.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ", cinerama
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
-
-#EXTINF:-1 group-title=" VARIADO " , must see
-https://dr2t9f8nivbc6.cloudfront.net/hls/RSCWGDI/F314587BBFA/m.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ", stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -1887,9 +1881,6 @@ https://videohd.live:19360/8008/8008.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ",  Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
-
-#EXTINF:-1 group-title=" VARIADO ",  hits mexicanos
-https://dr2t9f8nivbc6.cloudfront.net/hls/WJMERAY/3F13C2D5DEBB/m.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ",  trace latina
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/3db7d36d-7f36-4d63-8e79-0ce13ac81e35/3.m3u8
@@ -2146,3 +2137,6 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
 #EXTINF:-1  group-title="Music",hits mexicanos
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
+
+#EXTINF:-1  group-title="Music", rockola televicion
+https://dr2t9f8nivbc6.cloudfront.net/hls/MNNKGBQ/6BF095EB3851/m.m3u8

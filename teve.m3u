@@ -279,8 +279,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1 group-title="tv sudan ", Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv colombia ", Salsa Gorda colombia
-https://ssh101-fl.bozztv.com/ssh101/qMUAZEy/index.m3u8
+
 
 #EXTINF:-1 group-title="tv colombia ", Veo Televisión colombia 
 https://video.ejeserver.com/live/veotv.m3u8
@@ -2132,3 +2131,5 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,
 #EXTINF:-1 group-title="Music", rockola televicion
 https://dr2t9f8nivbc6.cloudfront.net/hls/MNNKGBQ/6BF095EB3851/m.m3u8
 
+#EXTINF:-1 group-title="Music", Salsa Gorda colombia
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8

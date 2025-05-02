@@ -1807,12 +1807,6 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 group-title="tv nicaragua ", Escuchame Radio Tv Nicaragua
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
-#EXTINF:-1 group-title="tv puerto rico ", megatv puerto rico
-https://mdstrm.com/live-stream-playlist/660b066dae419408a11b6072.m3u8
-
-#EXTINF:-1 group-title="tv puerto rico ", vision 300  puerto rico
-https://ss3.domint.net:3102/v3_str/v3000/chunklist_w1076101714.m3u8
-
 #EXTINF:-1 group-title="tv puerto rico ", DNJ TV puerto rico
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
 

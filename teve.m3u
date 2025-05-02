@@ -1840,6 +1840,12 @@ https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 group-title=" VARIADO ", Radio Televisión Mogán (1080p)
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 
+#EXTINF:-1 group-title=" VARIADO ", Canal Retrox tv
+https://acceso.radiosportstv.online:3259/hybrid/play.m3u8
+
+#EXTINF:-1 group-title=" VARIADO ", Canal Retro TV Palmares
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+
 #EXTINF:-1 group-title=" VARIADO ", Paramount Network (Spain) (720p)
 http://185.189.225.150:85/Paramount/index.m3u8
 
@@ -1861,14 +1867,9 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 group-title=" VARIADO ", stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ", retroTv
-https://stream.streamtech.com.co:5443/retroTv/streams/PtJONjPnRzie1792962647993731.m3u8
-
 #EXTINF:-1 group-title=" VARIADO ",  MOTORVISION
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/8f544035-cbfd-4455-8c71-c575e20c9839/0.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",  rockola televicion
-https://dr2t9f8nivbc6.cloudfront.net/hls/MNNKGBQ/6BF095EB3851/m.m3u8
 
 #EXTINF:-1 group-title=" VARIADO ",  Diti TV
 https://ssh101-fl.bozztv.com/ssh101/dititv/tracks-v1a1/mono.m3u8
@@ -2069,6 +2070,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Boing
 http://185.189.225.150:85/boing/index.m3u8
 
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Canal EnerGeek Retro
+https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
+
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
@@ -2140,3 +2144,5 @@ https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,
 
 #EXTINF:-1  group-title="Music", rockola televicion
 https://dr2t9f8nivbc6.cloudfront.net/hls/MNNKGBQ/6BF095EB3851/m.m3u8
+
+

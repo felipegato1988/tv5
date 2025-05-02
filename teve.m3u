@@ -2017,8 +2017,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Free TV Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", romance tv
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/bfdb8a85-0079-4fb6-ad25-24527b6caf2d/0.m3u8
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Romance Channel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152

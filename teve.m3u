@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
@@ -214,7 +215,8 @@ https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/p
 #EXTINF:-1 group-title="tv mexico ", Canal 26 Aguascalientes | mexico
 https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", TVP Culiacán | mexico
+#EXTINF:-1 group-title="tv mexico
+ ", TVP Culiacán | mexico
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", NMás | mexico
@@ -442,7 +444,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", cristiana tv españa 
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ",  alcarria tv españa 
+#EXTINF:-1
+ group-title="tv España ",  alcarria tv españa 
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv España ", TBN Espana españa 
@@ -658,7 +661,8 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="tv argentina ",  m argentina 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina ",   quatro argentina 
+#EXTINF:-1 group-title="tv argentina
+ ",   quatro argentina 
 https://stream.arcast.live/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv argentina ",   rtn argentina 
@@ -886,7 +890,8 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="tv COSTA RICA ",   Ultrazona TV COSTA RICA  
 https://acceso.radiosportstv.online:3089/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  Voice Over Radio TV COSTA RICA 
+#EXTINF:-1
+ group-title="tv COSTA RICA ",  Voice Over Radio TV COSTA RICA 
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 
 #EXTINF:-1 group-title="tv COSTA RICA ",   Canal Telesistema COSTA RICA 
@@ -1111,7 +1116,8 @@ https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", chiletyravel chile 
 https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", iquiquetv chile 
+#EXTINF:-1 group-title="TV chile", iquiquetv
+ chile 
 https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", taltal tv chile 
@@ -1339,7 +1345,8 @@ https://stream.skarnetchile.com:19360/ninatv/ninatv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  adntv chile 
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", la nuestra chile 
+#EXTINF:-1
+ group-title="TV chile", la nuestra chile 
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile",  tnetv chile 
@@ -1555,7 +1562,8 @@ https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?P
 #EXTINF:-1 group-title="tv República Dominicana",  Canal 9 Color Visión República Dominicana
 https://live-c.cf.dmcdn.net/sec2(FsHiJ8SJzTBt4K3YsxLc3tBzmWknQ-KmX8NagOsGxPOgR3-7cDrvbZKJEsrBwwm94R3xt7EYBHQtwiph7y5gFHBA5m99OBp33Q9NZ0s3Hqbsjv0XnQouFR5Ocd25CdcY)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfc
 
-#EXTINF:-1 group-title="tv República Dominicana",  MicroHD República Dominicana
+#EXTINF:-1 group-title="tv
+ República Dominicana",  MicroHD República Dominicana
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv República Dominicana",  Ready República Dominicana 
@@ -1742,7 +1750,8 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8?PlaylistM3UCL
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Estados unidos ", CBN Espanol estados unidos
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8?PlaylistM3UCL
+https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8?Playli
+stM3UCL
 
 #EXTINF:-1 group-title="tv Estados unidos ", mi tv clásica estados Unidos 
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
@@ -1892,7 +1901,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60511efd7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Misterios Médicos
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=fals
+e&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1960,7 +1970,8 @@ http://185.189.225.150:85/BOM/index.m3u8
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Runtime Clásicos 
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Runtime
+ Clásicos 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",, Runtime Romance 
@@ -2036,7 +2047,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a8691
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", BBC Drama
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&devi
+ceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS",  Novelas Turcas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -2108,19 +2120,21 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 #EXTINF:-1 group-title="DEPORTES", Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1  group-title="Music",Hit Tv
+#EXTINF:-1 group-title="Music",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1  group-title="Music",POP World TV (720p)
+#EXTINF:-1 group-title="Music",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 
-#EXTINF:-1  group-title="Music", Sol Música (720p)
+#EXTINF:-1 group-title="Music", Sol Música (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1  group-title="Music",STZ Telebista (1080p)
+#EXTINF:-1 group-title="Music",STZ Telebista (1080p)
 https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 
-#EXTINF:-1  group-title="Music",hits mexicanos
+#EXTINF:-1 group-title="Music",hits mexicanos
 https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/G7RPZJDZ6V3CRIAWTNFU/hls3/now,-1m/m.m3u8
 
+#EXTINF:-1 group-title="Music", rockola televicion
+https://dr2t9f8nivbc6.cloudfront.net/hls/MNNKGBQ/6BF095EB3851/m.m3u8
 

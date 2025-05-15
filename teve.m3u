@@ -71,7 +71,7 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCLL
 
 #EXTINF:-1 group-title="tv Ecuador ", retroplus tv 2 ecuador 
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", retroplus tv 3 ecuador 
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8

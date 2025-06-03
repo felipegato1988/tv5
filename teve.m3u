@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
@@ -65,16 +66,10 @@ https://cloudvideo.servers10.com:8081/8118/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", PURUWA TV ECUADOR
-https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8?PlaylistM3UCL
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", retroplus tv ecuador 
 https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCLL
-
-#EXTINF:-1 group-title="tv Ecuador ", retroplus tv 2 ecuador 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8
-
-#EXTINF:-1 group-title="tv Ecuador ", retroplus tv 3 ecuador 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", rtrtv ecuador
 https://tv3ecuador.site/hls/stream.m3u8?PlaylistM3UCL
@@ -99,9 +94,6 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", tvc ecuador
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv Ecuador ", tc ecuador
-https://live-b.cf.dmcdn.net/sec2(oQSd6yD2nLfZ4YVr-Nbl9NxTkkInCQj6ErQOFnkdfbVQe7ghm8-hlzwEE2mCMNnSmosBbnkAyDddQUYZBAQI-dF1iOpX47mV43HLnnLY660VJAyEXbsLS-h920-Oib4H)/dm/3/x7wijay/d/live-480.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", gamavision ecuador
 https://stream.esradioecuador.com/hls/stream.m3u8
@@ -182,7 +174,7 @@ https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playl
 https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", TV UNAM| mexico
-https://5f1af61612fb5.streamlock.net/tvunam/videotvunam/playlist.m3u8?PlaylistM3UCL
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="tv mexico ", María Visíón| mexico
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
@@ -236,10 +228,7 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8?PlaylistM3UCL
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv mexico ",  tele play mexico 
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv mexico ",  Golden Panregional mexico 
-https://bozztv.com/gusa/gusa-goldentv/index.m3u8?PlaylistM3UCL
+https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 #EXTINF:-1 group-title="tv mexico ",  Justicia TV mexico 
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8?PlaylistM3UCL
@@ -265,7 +254,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3U
 https://video.ejeserver.com/live/veotv.m3u8
 
 #EXTINF:-1 group-title="tv colombia ",Canal Capital colombia 
-https://cdns.livewave.co:19360/canalcapital/canalcapital.m3u8
+https://cdns.livewave.co:8081/canalcapital/index.m3u8
 
 #EXTINF:-1 group-title="tv colombia ", Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -274,7 +263,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
 #EXTINF:-1 group-title="tv colombia ", TDI colombia 
-https://streaming.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8
+https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="tv colombia ",Oasis Tv colombia 
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
@@ -309,9 +298,6 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv colombia ", teleislas colombia 
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv colombia ", telepacifico colombia 
-https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv colombia ", tvpenol colombia 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 
@@ -321,17 +307,11 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 #EXTINF:-1 group-title="tv España ",TV Artequatre (576p)
 https://streaming007.gestec-video.com/hls/artequatreTVA.m3u8
 
-#EXTINF:-1 group-title="tv España ",TV Almassora (720p)
-https://live.fullsport.es/hls/tvalmassora.m3u8
-
 #EXTINF:-1 group-title="tv España ",TV3CAT (1080p)
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1 group-title="tv España ",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-
-#EXTINF:-1 group-title="tv España ",Telemadrid (720p)
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
 
 #EXTINF:-1 group-title="tv España ",Teleganés (720p)
 https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
@@ -350,9 +330,6 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
 #EXTINF:-1 group-title="tv España ",Nova (Spain) (576p)
 http://185.189.225.150:85/nova/index.m3u8
-
-#EXTINF:-1 #EXTINF:-1 group-title="tv España ",Canal Sur Andalucía 2 (720p)
-https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="tv España ", Ciudades Del Ocio TV (720p)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
@@ -396,8 +373,6 @@ https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 group-title="tv España ", C españa 
 https://streamtv2.elitecomunicacion.cloud:3738/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ",  canalparlamento españa 
-https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
 
 #EXTINF:-1 group-title="tv España ", eitb-1 españa 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?PlaylistM3UCL
@@ -429,9 +404,6 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv España ",  7 TeleValencia (576p) España 
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv España ",  7 Televisión Región de Murcia (1080p) España 
-https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv España ",  8 La Marina TV (576p) España 
 https://streaming005.gestec-video.com/hls/canal24.m3u8?PlaylistM3UCL
@@ -552,9 +524,6 @@ https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", Nubeh TV  | Venezuela 
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv venezuela ", Oxigeno Network  | Venezuela 
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv argentina ",  Net TV argentina
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8

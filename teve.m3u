@@ -1539,9 +1539,6 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 group-title=" VARIADO ",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",TarotVisión (576p)
-https://stream.andalhost.com/hls/tarotvision.m3u8
-
 #EXTINF:-1 group-title=" VARIADO ",Tarotéame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 

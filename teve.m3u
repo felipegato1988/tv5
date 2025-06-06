@@ -83,6 +83,9 @@ https://d27a7brtx3v90o.cloudfront.net/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd27
 #EXTINF:-1 group-title="tv Ecuador ", sonovision tv ecuador
 https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="tv Ecuador ",  tc ecuador
+https://live.eu-north-1b.cf.dmcdn.net/sec2(HUEf7ytlF_qTJ2zG4Qw_SYKfTWMmHEcHthfMSHvWUjlMIpFgeXgD4Tzd60i7vszCVvByKPuFrErGcDRSrn5VslUXQshToeqSrDUv29nzje0glafh2fcFyDYroG5N40l5)/dm/3/x7wijay/d/live-480.m3u8
+
 #EXTINF:-1 group-title="tv Ecuador ", teleamazonas ecuador
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
 

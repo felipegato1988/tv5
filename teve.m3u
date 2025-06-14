@@ -340,6 +340,9 @@ http://185.189.225.150:85/LaSexta/index.m3u8
 #EXTINF:-1 group-title="tv España ",La 2 (1080p)
 http://185.189.225.150:85/TV2/index.m3u8
 
+#EXTINF:-1 group-title="tv España ",Cuatro.es Mediaset 
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
 #EXTINF:-1 group-title="tv España ", Factoria de Ficcion (1080p)
 http://185.189.225.150:85/fdf/index.m3u8
 
@@ -392,8 +395,7 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", cristiana tv españa 
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1
- group-title="tv España ",  alcarria tv españa 
+#EXTINF:-1 group-title="tv España ",  alcarria tv españa 
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv España ", TBN Espana españa 
@@ -524,6 +526,18 @@ https://vcp3.myplaytv.com/trv/trv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", Nubeh TV  | Venezuela 
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="tv venezuela ", VPITV 2
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+#EXTINF:-1 group-title="tv venezuela ", Telesol
+https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="tv venezuela ", AnzoateguiTV.ve
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 group-title="tv venezuela ", NET Channel Venezuela HD
+https://media.streambrothers.com:19360/8134/8134.m3u8?Playlist
 
 #EXTINF:-1 group-title="tv argentina ",  Net TV argentina
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -1572,6 +1586,15 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 group-title=" VARIADO ",  Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
 
+#EXTINF:-1 group-title=" VARIADO ",  La 8 Mediterráneo
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+#EXTINF:-1 group-title="TV TEMÁTICA",  La fiebre del jade
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=b77e20f6-cdb9-41cb-8580-29105b491141&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883088
+
+#EXTINF:-1 group-title="TV TEMÁTICA",  Pilotos del Ártico
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=8c141f38-6abc-4f7e-9cd2-fab3329f01c9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883090
+
 #EXTINF:-1 group-title="TV TEMÁTICA",  Saber más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
@@ -1647,6 +1670,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 #EXTINF:-1 group-title="TV TEMÁTICA",  Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", CSI: Miami 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285534-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f56cc8-59b4-456a-bee7-c5cbe377e506
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", CSI: NY 
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/632b606e12a67b0007c9e371/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285536-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fe6859ac-2fe0-4cfe-aa7f-b5f343d25841
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Cine jaja!!
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5cedbdba-6871-4161-a12d-d20faa66e6b8
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Cine XOXO
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Cine Friki
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8?ads_amagi_channel=851&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5016&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=240b9fc6-4ca9-435c-9f66-176080b7147c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Sony Comedias (MX)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Bom Cine (576p)
 http://185.189.225.150:85/BOM/index.m3u8
 
@@ -1679,6 +1723,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Estrellas de Acción
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Premiere
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
+
+#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine clasico
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Pluto TV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1734,9 +1784,14 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Dramas Coreanos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS}
 
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Sony Novelas (MX)
+https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Boing
 http://185.189.225.150:85/boing/index.m3u8
+
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Beyblade
+https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8?ads_amagi_channel=953&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=6421&ads_rtv_content_language=spa&ads_rtvid=271859&ads_streaming_id=8ef566df-5b0a-4b5d-900e-9f74d96f0f3f&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Canal EnerGeek Retro
 https://streaming-cl.sh1ny.space/memfs/e8a8e789-170b-4de4-a33b-90a9a475ce65.m3u8
@@ -1791,6 +1846,9 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8?
 
 #EXTINF:-1 group-title="DEPORTES", Pluto TV E-sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DEPORTES", eSports Max TV
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8

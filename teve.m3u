@@ -363,7 +363,7 @@ http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u
 #EXTINF:-1 group-title="tv España ", Onda Valencia (720p) España
 https://cloudvideo.servers10.com:8081/8116/index.m3u8
 
-#EXTINF:-1 group-title="tv colombia ", Tv Melilla españa
+#EXTINF:-1 group-title="tv España ", Tv Melilla españa
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 
 #EXTINF:-1 group-title="tv España ", ETB Basque españa
@@ -532,8 +532,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 group-title="tv venezuela ", Telesol
 https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv venezuela ", AnzoateguiTV.ve
-https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 group-title="tv venezuela ", Somos TV | VE
+https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", NET Channel Venezuela HD
 https://media.streambrothers.com:19360/8134/8134.m3u8?Playlist

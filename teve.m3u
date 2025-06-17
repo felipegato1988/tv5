@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
-https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8?PlaylistM3UCL
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8?nimblesessionid=580530138
 
 #EXTINF:-1 group-title="tv Ecuador ", CATOMEDIA Ecuador 
 https://stream.catomedia.net/catomedia-app/index.m3u8

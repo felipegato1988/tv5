@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
-https://video2.makrodigital.com/americaestereoquito/americaestereoquito/chunks.m3u8?nimblesessionid=580530138
+https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", CATOMEDIA Ecuador 
 https://stream.catomedia.net/catomedia-app/index.m3u8
@@ -25,9 +25,6 @@ https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ",  Canal sur| Ecuador 
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
-
-#EXTINF:-1 group-title="tv Ecuador ", ciracutv ecuador
-https://cloud37.ecuatel.com/ciracutv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", curiquingue ecuador
 https://video2.lhdserver.es/pjtv/live.m3u8?PlaylistM3UCL
@@ -86,23 +83,23 @@ https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv Ecuador ", tv color ecuador
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="tv Ecuador ", telecuenca ecuador
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/lPCDyvUtgxOHfkfq4qhzWzaBTSHPlZqUHWchM9wwL_yZg2FoubyaZrcv7laiOIHVWWpG9DtwdeU41UWF2JGWvw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_16890105861305756465.m3u8?type=replay
+
 #EXTINF:-1 group-title="tv Ecuador ", tvc ecuador
 https://live.airstream.run/alba-ec-tvc-tvc/index.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", rts ecuador
 https://live.airstream.run/alba-ec-rts-rts/480p.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", tc ecuador
-https://live.eu-north-1b.cf.dmcdn.net/sec2(Myi4N2N2Jl6Z7hATFh6t6SEYEJPxeUjJw4HoZa-9TaW7-qur2mmnZk5vsBfP_rEfm3FVqD7M21b0UvdLIW-mshbAZwVa2NjSEW4jV8VstYoq9ZgyGv11h1kJcUyVvCX-)/dm/3/x7wijay/d/live-720.m3u8
+#EXTINF:-1 group-title="tv Ecuador ", teleandina ecuador
+https://live-stream.iblups.com/video/36f3efb2fcfdb2cdb92a9b298415932943348ba3.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", gamavision ecuador
 https://stream.esradioecuador.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", uno ecuador
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv Ecuador ", vos y tv ecuador
-https://cloud37.ecuatel.com/vostv/live/chunklist_w2044681720.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", zacaray ecuador
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL

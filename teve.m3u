@@ -104,9 +104,6 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", telecuenca ecuador
-https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/lPCDyvUtgxOHfkfq4qhzWzaBTSHPlZqUHWchM9wwL_yZg2FoubyaZrcv7laiOIHVWWpG9DtwdeU41UWF2JGWvw/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/master_dynamic_16890105861305756465.m3u8?type=replay
-
 #EXTINF:-1 group-title="tv mexico ", RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8
 

@@ -89,9 +89,6 @@ https://live.airstream.run/alba-ec-tvc-tvc/index.m3u8
 #EXTINF:-1 group-title="tv Ecuador ", rts ecuador
 https://live.airstream.run/alba-ec-rts-rts/480p.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", teleandina ecuador
-https://live-stream.iblups.com/video/36f3efb2fcfdb2cdb92a9b298415932943348ba3.m3u8
-
 #EXTINF:-1 group-title="tv Ecuador ", gamavision ecuador
 https://stream.esradioecuador.com/hls/stream.m3u8
 

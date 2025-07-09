@@ -107,9 +107,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w189
 #EXTINF:-1 group-title="tv mexico ", 8 NTV Mexico
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", TeleSaltillo mexico
-https://servilive.com:3879/live/telesaltillolive.m3u8
-
 #EXTINF:-1 group-title="tv mexico ", 15 TV | mexico
 https://cdn.fastocloud.com/leonel.m3u8
 
@@ -148,9 +145,6 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", Sintonía Pública TV | mexico
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-
-#EXTINF:-1 group-title="tv mexico ", Queretaro Femenil | mexico
-https://capomo01-enitv.eninetworks.com/qro_femenil_vbmedia_publico/video.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", TV Mar Puerto Vallarta | mexico
 https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
@@ -251,9 +245,6 @@ https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="tv colombia ",Oasis Tv colombia 
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-
-#EXTINF:-1 group-title="tv colombia ", Cali TV colombia 
-https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 
 #EXTINF:-1 group-title="tv colombia ", Toonz Kids colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
@@ -394,9 +385,6 @@ https://directo.tuwebtv.es/canal1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", Canal 4 Mallorca (1080p) España 
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ", Canal 45 (576p) España 
-https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv España ", Diez TV Las Villas (1080p) España 
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8?PlaylistM3UCL
 
@@ -417,9 +405,6 @@ https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
 #EXTINF:-1 group-title="tv España ", Lancelot TV (404p) España
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/master.m3u8
-
-#EXTINF:-1 group-title="tv España ", Mijas 3.40TV (720p) España
-https://streaming004.gestec-video.com/hls/MIJAS.m3u8
 
 #EXTINF:-1 group-title="tv España ", MyTime movie network Spain (1080p) España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -451,9 +436,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-
 #EXTINF:-1 group-title="tv España ", Love TV Planet España
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="tv España ", Novelas España
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="tv venezuela ", Vale TV venezuela
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/chunklist_w969698621.m3u8
 
@@ -471,9 +453,6 @@ https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ",  ReformaTV venezuela 
 https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv venezuela ",  tvfanb venezuela 
-https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ",  telearagua venezuela 
 http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCLL
@@ -619,17 +598,11 @@ https://stream1.sersat.com/hls/argentinisima.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",  azaharesfm argentina 
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina ",   c5sf argentina 
-https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv argentina ",   c6 argentina 
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv argentina ",  canal7 argentina 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv argentina ",   c7 argentina 
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv argentina ",   sanluis argentina 
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
@@ -1668,6 +1641,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Sony Novelas (MX)
 https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas España
+https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Boing
 http://185.189.225.150:85/boing/index.m3u8

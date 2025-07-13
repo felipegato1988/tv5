@@ -577,9 +577,6 @@ https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ",  panc tv PERU
 https://panel.host-live.com:19360/20000/20000.m3u8
 
-#EXTINF:-1 group-title="tv PERU ",  TV Perú PERU
-https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-
 #EXTINF:-1 group-title="tv PERU ",  TV Cosmos 15.1 PERU
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 
@@ -632,9 +629,6 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ",  cablerasvia PERU 
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ",  IPE PERU
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv bolivia ",  punto tv bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 
@@ -665,10 +659,7 @@ https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 group-title="tv COSTA RICA ",   canal8 COSTA RICA  
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   C9NTV COSTA RICA  
-https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL
-
-##EXTINF:-1 group-title="tv COSTA RICA ",   limontv COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",   limontv COSTA RICA  
 https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8
 
 #EXTINF:-1 group-title="tv COSTA RICA ",  nicoyatv COSTA RICA  
@@ -742,9 +733,6 @@ https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM
 
 #EXTINF:-1 group-title="TV chile", apocalipsistv chile 
 https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV chile", Rtv chile 
-https://eu1.servers10.com:8081/8162/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", sabrosonavideo chile 
 https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL
@@ -833,12 +821,6 @@ https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", ESTACION TV chile 
 https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", primiciavida chile 
-https://stmv5.voxtvhd.com.br/primiciavida/primiciavida/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV chile", TC chile 
-https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="TV chile", TVO chile 
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
 
@@ -911,9 +893,6 @@ https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?Playlis
 #EXTINF:-1 group-title="TV chile",  urban pro chile 
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", solo bailalo chile 
-https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="TV chile", tv words chile 
 https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8?PlaylistM3UCL
 
@@ -950,9 +929,6 @@ https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", miradio2 chile 
 https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV chile", la señal chile 
-https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile",  radioancoatv chile 
 https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
@@ -1007,9 +983,6 @@ https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", San Carlos Ã‘uble | Chile 
 https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="TV chile", Radio Fantasia TV  | Chile 
-https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", NCTV | Chile
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
@@ -1121,9 +1094,6 @@ https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv República Dominicana", Multivisión  República Dominicana
 https://5790d294af2dc.streamlock.net/MULTIVISIONRD/MULTIVISIONRD/playlist.m3u8
-
-#EXTINF:-1 group-title="tv República Dominicana", Cotui Tv Canal 22  República Dominicana
-https://cloudflare.streamgato.us:3490/live/cotuitvlive.m3u8
 
 #EXTINF:-1 group-title="tv República Dominicana", Box Playlist República Dominicana
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
@@ -1248,9 +1218,6 @@ https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92
 
 #EXTINF:-1 group-title="tv salvador ",  TCS El Salvador 
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF:-1 group-title="tv salvador ", WOW TV  | Salvador 
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv salvador ", Canal 12 salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8

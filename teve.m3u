@@ -51,7 +51,7 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?Playl
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", majestadtv ecuador
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8?PlaylistM3UCL
+https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", oromartv ecuador
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
@@ -83,14 +83,11 @@ https://live.airstream.run/alba-ec-tvc-tvc/index.m3u8
 #EXTINF:-1 group-title="tv Ecuador ", rts ecuador
 https://live.airstream.run/alba-ec-rts-rts/480p.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", gamavision ecuador
-https://stream.esradioecuador.com/hls/stream.m3u8
-
 #EXTINF:-1 group-title="tv Ecuador ", uno ecuador
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ", zacaray ecuador
-https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8?PlaylistM3UCL
+https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=600226258
 
 #EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8

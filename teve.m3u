@@ -81,7 +81,7 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 https://live.airstream.run/alba-ec-tvc-tvc/index.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", rts ecuador
-https://live.airstream.run/alba-ec-rts-rts/480p.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/medialist_15609871089997455276_hls.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", uno ecuador
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL

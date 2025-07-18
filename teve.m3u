@@ -266,8 +266,7 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv colombia ", Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv España ",TV3CAT (1080p)
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+
 
 #EXTINF:-1 group-title="tv España ",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8

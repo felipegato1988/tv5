@@ -101,9 +101,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w189
 #EXTINF:-1 group-title="tv mexico ", 8 NTV Mexico
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", 15 TV | mexico
-https://cdn.fastocloud.com/leonel.m3u8
-
 #EXTINF:-1  group-title="tv mexico ", adn40 | mexico
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
@@ -219,11 +216,6 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3U
 
 
 
-
-
-#EXTINF:-1 group-title="tv colombia ",Canal Capital colombia 
-https://cdns.livewave.co:8081/canalcapital/index.m3u8
-
 #EXTINF:-1 group-title="tv colombia ", Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
 
@@ -279,9 +271,6 @@ http://185.189.225.150:85/TeleCincoHD/index.m3u8
 
 #EXTINF:-1 group-title="tv España ",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
-
-#EXTINF:-1 group-title="tv España ",RTV Marbella (720p)
-https://streaming.rtvmarbella.tv/hls/streamingweb.m3u8
 
 #EXTINF:-1 group-title="tv España ", Ciudades Del Ocio TV (720p)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
@@ -401,8 +390,8 @@ https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/chunklist_w28
 #EXTINF:-1 group-title="tv venezuela ", Canal I venezuela
 https://vcp10.myplaytv.com/canali/canali/chunklist_w581097717.m3u8
 
-#EXTINF:-1 group-title="tv venezuela ",  ReformaTV venezuela 
-https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="tv venezuela ", REFORMA TV venezuela
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w920236155.m3u8
 
 #EXTINF:-1 group-title="tv venezuela ",  telearagua venezuela 
 http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCLL
@@ -415,9 +404,6 @@ https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", Somos TV | VE
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv venezuela ", NET Channel Venezuela HD
-https://media.streambrothers.com:19360/8134/8134.m3u8?Playlist
 
 #EXTINF:-1 group-title="tv argentina ",  Net TV argentina
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -672,8 +658,6 @@ https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", LATINOSTV CHILE
 https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  PLANETATV chile 
-https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", LACHILENA TV chile 
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
@@ -1148,9 +1132,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 #EXTINF:-1 group-title="tv Estados unidos ", freetv saber estados unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ", telemundo estados unidos
-https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
-
 #EXTINF:-1 group-title="tv salvador ", canal2 Salvador
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
@@ -1186,9 +1167,6 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="tv puerto rico ", Salvacion TV puerto rico
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
-
-#EXTINF:-1 group-title="tv canada ", Stingray Classica canada
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title=" VARIADO ",Televisión Consciente (1080p)
 https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
@@ -1463,9 +1441,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="DEPORTES", eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",  FOX Spots 
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-
 #EXTINF:-1 group-title="Music",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
@@ -1484,6 +1459,9 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 group-title="Music", Hits Mexicanos | mexico
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/M1TPUUHDPEDU1ZZW8Y1T/hls3/now,-1m/master.m3u8
 
-#EXTINF:-1 group-title="Music", Salsa Gorda colombia
+#EXTINF:-1 group-title="Music", SALSA GORDA
 https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+#EXTINF:-1 group-title="Music", MUSICA CLASICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
 

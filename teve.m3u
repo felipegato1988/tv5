@@ -92,9 +92,6 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 group-title="tv mexico ", RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", Tlaxcala TV
-https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
-
 #EXTINF:-1 group-title="tv mexico ", AMX NOTICIAS
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w1895446983.m3u8
 
@@ -504,9 +501,6 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",   c6 argentina 
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina ",  canal7 argentina 
-https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv argentina ",   sanluis argentina 
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
 
@@ -655,8 +649,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 group-title="TV chile",  RuidostvTV chile 
 https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", LATINOSTV CHILE
-https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 group-title="TV chile", LACHILENA TV chile 
@@ -698,8 +691,6 @@ https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", dancefm_1 chile 
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", hiper tv chile 
-https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", energia-fm chile 
 https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
@@ -737,8 +728,7 @@ http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", caracola-tv chile 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", cattotv chile 
-https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", tevexoficial chile 
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
@@ -752,8 +742,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", EDTV chile 
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", EMPLACILLA chile 
-https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", margamargatv chile 
 https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
@@ -770,8 +759,6 @@ https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?Playlist
 #EXTINF:-1 group-title="TV chile", tv5linares chile 
 https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", nativatv chile 
-https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", maulevisiontv chile 
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
@@ -824,8 +811,6 @@ https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  vc chile 
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  radioaraucania chile 
-https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile",  urban pro chile 
 https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
@@ -843,8 +828,6 @@ https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8?PlaylistM3
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="TV chile", maquiradio chile 
-https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile",  emociontv chile 
 https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
@@ -855,8 +838,7 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  ibanez chile 
 https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  radiopolar chile 
-https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile",  fiesta-video-01 chile 
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
@@ -894,8 +876,6 @@ https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?Playlist
 #EXTINF:-1 group-title="TV chile",  adatv chile 
 https://stream.blserver.cl/hls/adatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", clicktv chile 
-https://v2.tustreaming.cl/clicktv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", ExtremaTV chile
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
@@ -942,8 +922,7 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 #EXTINF:-1 group-title="tv Honduras", Canal 11 Honduras
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b260591109267b01ab75a7bb
 
-#EXTINF:-1 group-title="tv Honduras", Ebenezer Tv En Vivo Honduras
-https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+
 
 #EXTINF:-1 group-title="tv Honduras", JBN TV En Vivo Honduras
 https://mediacp.us:8081/jbntv/index.m3u8
@@ -1186,8 +1165,7 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 group-title=" VARIADO ", stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",  TIV Televisión Tres Isletas, Chaco
-https://videohd.live:19360/8008/8008.m3u8
+
 
 #EXTINF:-1 group-title=" VARIADO ",  Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
@@ -1391,7 +1369,7 @@ https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 http://185.189.225.150:85/boing/index.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Retro Cartoons
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS

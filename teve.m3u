@@ -513,8 +513,6 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ",  panc tv PERU
-https://panel.host-live.com:19360/20000/20000.m3u8
 
 #EXTINF:-1 group-title="tv PERU ",  TV Cosmos 15.1 PERU
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8

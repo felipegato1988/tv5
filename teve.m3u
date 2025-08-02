@@ -1365,6 +1365,9 @@ https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Boing
 http://185.189.225.150:85/boing/index.m3u8
 
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  ToonamiTV
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
+
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
@@ -1440,6 +1443,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

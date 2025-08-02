@@ -260,8 +260,7 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 #EXTINF:-1 group-title="tv España ",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
-#EXTINF:-1 group-title="tv España ",Teleganés (720p)
-https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+
 
 #EXTINF:-1 group-title="tv España ",Telecinco (720p)
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
@@ -1165,7 +1164,7 @@ https://lstv.duckdns.org:449/hls/stv.m3u8
 
 
 #EXTINF:-1 group-title=" VARIADO ",  Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?did=b260591109267b01ab75a7bb
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  La fiebre del jade
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=b77e20f6-cdb9-41cb-8580-29105b491141&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883088
@@ -1434,8 +1433,8 @@ https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
 #EXTINF:-1 group-title="Music", Hits Mexicanos | mexico
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/M1TPUUHDPEDU1ZZW8Y1T/hls3/now,-1m/master.m3u8
 
-#EXTINF:-1 group-title="Music", SALSA GORDA
-https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8

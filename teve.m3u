@@ -262,8 +262,7 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 
 
 
-#EXTINF:-1 group-title="tv España ",Telecinco (720p)
-http://185.189.225.150:85/TeleCincoHD/index.m3u8
+
 
 #EXTINF:-1 group-title="tv España ",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
@@ -271,17 +270,13 @@ https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 group-title="tv España ", Ciudades Del Ocio TV (720p)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
 
-#EXTINF:-1 group-title="tv España ",La 2 (1080p)
-http://185.189.225.150:85/TV2/index.m3u8
 
-#EXTINF:-1 group-title="tv España ",Cuatro.es Mediaset 
-http://185.189.225.150:85/CuatroHD/index.m3u8
 
-#EXTINF:-1 group-title="tv España ", Factoria de Ficcion (1080p)
-http://185.189.225.150:85/fdf/index.m3u8
 
-#EXTINF:-1 group-title="tv España ",Mega (Spain) (576p)
-http://185.189.225.150:85/mega/index.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="tv España ", El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -308,8 +303,7 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ",  algecirastv españa 
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ",  cadena elite españa 
-https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv España ",  ztnr españa 
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
@@ -338,8 +332,7 @@ https://directo.tuwebtv.es/canal1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", Canal 4 Mallorca (1080p) España 
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ", Diez TV Las Villas (1080p) España 
-https://streaming.cloud.innovasur.es/mmj2/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv España ", Distrito TV (1080p) España
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
@@ -356,8 +349,7 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 #EXTINF:-1 group-title="tv España ", MyTime movie network Spain (1080p) España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv España ", Nickelodeon España
-http://185.189.225.150:85/nickelodeon/index.m3u8
+
 
 #EXTINF:-1 group-title="tv España ", Onda Algeciras TV (576p) España
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
@@ -571,8 +563,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 #EXTINF:-1 group-title="tv bolivia ",  punto tv bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv bolivia ",  TL Estrella bolivia
-https://envivo.bolivia-link.com:3785/live/teleestrellalive.m3u8
+
 
 #EXTINF:-1 group-title="tv bolivia ",  f10 bolivia
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
@@ -722,8 +713,7 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", pura noticia chile 
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", corcubio chile 
-http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", caracola-tv chile 
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
@@ -763,8 +753,7 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", maulevisiontv chile 
 https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", canal21tv chile 
-https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", ctv chile 
 https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL
@@ -793,8 +782,7 @@ https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  melinkana chile 
 https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", surtv chile 
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", 99.3 chile 
 https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
@@ -802,8 +790,7 @@ https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", monterrico chile 
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", carolinatv2 chile 
-https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", tv chile 
 https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
@@ -852,17 +839,14 @@ https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  radioancoatv chile 
 https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  adntv chile 
-https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", la nuestra chile 
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 group-title="TV chile",  tnetv chile 
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  restaurandovida chile 
-https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile",  radiovidacurico chile 
 https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
@@ -880,8 +864,7 @@ https://stream.blserver.cl/hls/adatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", ExtremaTV chile
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", El Pinguino Tv chile
-https://redirector.dps.live/hls/pinguinotv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TV chile", U Los Lagos  | Chile 
 http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
@@ -889,8 +872,7 @@ http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", Red Fueguina Radio  | Chile 
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", AmÃ©rica TV Chile | Chile
-https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", UTV San Clemente | Chile
 https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL
@@ -919,8 +901,7 @@ https://5e85d90130e77.streamlock.net/6022/6022/playlist.m3u8
 #EXTINF:-1 group-title="tv Honduras", CCI TV Honduras
 https://livestream.mediacci.com/ccitv/index.m3u8
 
-#EXTINF:-1 group-title="tv Honduras", Canal 11 Honduras
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/canal11hn/canal11hn.smil/playlist.m3u8?did=b260591109267b01ab75a7bb
+
 
 
 
@@ -1074,8 +1055,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="tv Estados unidos ",  AFV Español estados unidos
 https://linear-46.frequency.stream/dist/glewedtv/46/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ",  Stream Uno estados unidos
-https://streamunoapp.com:3201/live/streamunotvlive.m3u8
+
 
 #EXTINF:-1 group-title="tv Estados unidos ", Nosey estados unidos
 https://nosey-3-us.plex.wurl.tv/playlist.m3u8
@@ -1146,14 +1126,12 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="tv puerto rico ", Salvacion TV puerto rico
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ",Televisión Consciente (1080p)
-https://cdn318.fractalmedia.es/318/live/hls/tvc/master.m3u8
+
 
 #EXTINF:-1 group-title=" VARIADO ", Radio Televisión Mogán (1080p)
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
 
-#EXTINF:-1 group-title=" VARIADO ", Paramount Network (Spain) (720p)
-http://185.189.225.150:85/Paramount/index.m3u8
+
 
 #EXTINF:-1 group-title=" VARIADO ", El Confidencial TV (1080p)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
@@ -1215,8 +1193,6 @@ https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
 #EXTINF:-1 group-title="TV TEMÁTICA",  Cocina Mediterranea
 https://cloud.fastchannel.es/mic/manifiest/hls/cocinamediterranea/cocinamediterranea.m3u8
 
-#EXTINF:-1 group-title="TV TEMÁTICA", Crafty Panda
-https://api-ott.boredpanda.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=18&partner=distro&ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23140&ads.content_duration=18000&ads.episode_id=123244&ads.show_id=4987&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Lifestyle%2CInfotainment&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Crafty%20Panda&ads.episodetitle=Crafty%20Panda&ads.keywords=DIY%2CLife%20Hacks%2CCrafting%2CMetalworking%2CWoodworking%2CHome%20Decor&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.islive=1&ads.streamtype=live
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Ideas en 5 Minutos
 https://d1vhgfbxsl1eqy.cloudfront.net/playlist/amg02051-admecyltd-5minutecraftsspanish-samsunges/playlist.m3u8
@@ -1227,8 +1203,7 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 #EXTINF:-1 group-title="TV TEMÁTICA", Mi Coche Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TV TEMÁTICA", 391 Sangre fría
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6130
+
 
 #EXTINF:-1 group-title="TV TEMÁTICA", Pluto TV Investiga
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1266,8 +1241,7 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Sony Comedias (MX)
 https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Bom Cine (576p)
-http://185.189.225.150:85/BOM/index.m3u8
+
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  Cine Sureno 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoar-lgar/playlist.m3u8
@@ -1362,8 +1336,7 @@ https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas España
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  Boing
-http://185.189.225.150:85/boing/index.m3u8
+
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  ToonamiTV
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
@@ -1386,8 +1359,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", Pluto TV Anime Acción
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1422,8 +1393,7 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:-1 group-title="Music",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
-#EXTINF:-1 group-title="Music", MUSIC PUQ chile 
-https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="Music",POP World TV (720p)
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
@@ -1443,6 +1413,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

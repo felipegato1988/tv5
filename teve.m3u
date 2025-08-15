@@ -91,7 +91,7 @@ https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-=================mexico==============================
+================= mexico ==============================
 
 #EXTINF:-1 group-title="tv mexico ", RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8
@@ -213,11 +213,11 @@ https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
 
-==============sudan==================
+============== sudan ==================
 #EXTINF:-1 group-title="tv sudan ", Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
-===================colombia==============
+=================== colombi a==============
 
 #EXTINF:-1 group-title="tv colombia ", Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -261,7 +261,7 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv colombia ", Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
-==============españa===========================
+============== españa ===========================
 
 #EXTINF:-1 group-title="tv España ",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
@@ -356,7 +356,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-
 #EXTINF:-1 group-title="tv España ", Love TV Planet España
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
 
-===========================venezuela=====================
+=========================== venezuela =====================
 
 #EXTINF:-1 group-title="tv venezuela ", LATINAMEDIOS venezuela
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
@@ -385,7 +385,7 @@ https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv venezuela ", Somos TV | VE
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
 
-=================argentina===============
+================= argentina ===============
 
 #EXTINF:-1 group-title="tv argentina ",  Net TV argentina
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -498,7 +498,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
-=================peru=====================
+================= peru =====================
 
 #EXTINF:-1 group-title="tv PERU ",  TV Cosmos 15.1 PERU
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
@@ -508,7 +508,6 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 
 #EXTINF:-1 group-title="tv PERU ",  SOL TV PERU 
 https://video03.logicahost.com.br/soltv/soltv/playlist.m3u8
-
 
 #EXTINF:-1 group-title="tv PERU ",  CNC Cajamarca PERU 
 https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
@@ -552,10 +551,10 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ",  cablerasvia PERU 
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 
+====================== bolivia ============
+
 #EXTINF:-1 group-title="tv bolivia ",  punto tv bolivia
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
-
-
 
 #EXTINF:-1 group-title="tv bolivia ",  f10 bolivia
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
@@ -1405,6 +1404,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

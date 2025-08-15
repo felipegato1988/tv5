@@ -2,6 +2,8 @@
 
 #EXTM3U
 
+==================ecuador=================
+
 #EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
@@ -88,6 +90,8 @@ https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+
+=================mexico==============================
 
 #EXTINF:-1 group-title="tv mexico ", RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8
@@ -208,10 +212,12 @@ https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 group-title="tv mexico ", las estrellas HD mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
+
+==============sudan==================
 #EXTINF:-1 group-title="tv sudan ", Teleritmo | sudan
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 
-
+===================colombia==============
 
 #EXTINF:-1 group-title="tv colombia ", Fish Tank colombia 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
@@ -255,28 +261,16 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv colombia ", Love The Planet colombia 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
 
-
+==============españa===========================
 
 #EXTINF:-1 group-title="tv España ",Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-
-
-
-
 
 #EXTINF:-1 group-title="tv España ",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
 #EXTINF:-1 group-title="tv España ", Ciudades Del Ocio TV (720p)
 https://cloudvideo.servers10.com:8081/8024/index.m3u8
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 group-title="tv España ", El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -293,7 +287,6 @@ https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 group-title="tv España ", Aragón TV españa
 https://cartv-streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-
 #EXTINF:-1 group-title="tv España ", eitb-1 españa 
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?PlaylistM3UCL
 
@@ -302,8 +295,6 @@ http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv España ",  algecirastv españa 
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
-
-
 
 #EXTINF:-1 group-title="tv España ",  ztnr españa 
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
@@ -332,8 +323,6 @@ https://directo.tuwebtv.es/canal1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", Canal 4 Mallorca (1080p) España 
 https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8?PlaylistM3UCL
 
-
-
 #EXTINF:-1 group-title="tv España ", Distrito TV (1080p) España
 https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 
@@ -348,8 +337,6 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 
 #EXTINF:-1 group-title="tv España ", MyTime movie network Spain (1080p) España
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 group-title="tv España ", Onda Algeciras TV (576p) España
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
@@ -368,6 +355,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-
 
 #EXTINF:-1 group-title="tv España ", Love TV Planet España
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetes-samsungspain/playlist.m3u8
+
+===========================venezuela=====================
 
 #EXTINF:-1 group-title="tv venezuela ", LATINAMEDIOS venezuela
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
@@ -395,6 +384,8 @@ https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", Somos TV | VE
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+
+=================argentina===============
 
 #EXTINF:-1 group-title="tv argentina ",  Net TV argentina
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -430,7 +421,7 @@ https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 #EXTINF:-1 group-title="tv argentina ",  eltrecetv argentina 
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="tv argentina ",   93.1 argentina 
 https://stmvideo6.livecastv.com/elborne/elborne/playlist.m3u8?PlaylistM3UCL
@@ -507,6 +498,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ",  TV Mana argentina 
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
 
+=================peru=====================
 
 #EXTINF:-1 group-title="tv PERU ",  TV Cosmos 15.1 PERU
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
@@ -1413,6 +1405,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

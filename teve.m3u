@@ -878,11 +878,15 @@ https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8?Playlist
 #EXTINF:-1 group-title="TV chile", NCTV | Chile
 https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
 
+============== uruguay ========
+
 #EXTINF:-1 group-title="tv Uruguay", UCL TelevisiÃ³n LATAM  | Uruguay 
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Uruguay", VIVO Tv  | Uruguay 
 https://stream.vivotv.uy/hls/stream.m3u8
+
+==========honduras=========
 
 #EXTINF:-1 group-title="tv Honduras", SI TV En Vivo Honduras
 https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
@@ -912,11 +916,15 @@ https://s.emisoras.tv:8081/diostevetv/index.m3u8
 #EXTINF:-1 group-title="tv Honduras", Jehova Tv En Vivo Honduras
 https://video.misistemareseller.com/jehovatelevision/jehovatelevision/playlist.m3u8
 
+=============paraguay===========
+
 #EXTINF:-1 group-title="tv paraguay", Enlace TV En Vivo paraguay
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="tv paraguay", megatv paraguay
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+
+====================cuba============
 
 #EXTINF:-1 group-title="tv cuba", Prensa Latina cuba
 https://eu1.servers10.com:8081/8192/index.m3u8
@@ -924,8 +932,12 @@ https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 group-title="tv cuba", Canal Marti cuba
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 
+=============guatemala=================
+
 #EXTINF:-1 group-title="tv guatemala", chapin 3 guatemala
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+==================República Dominicana===========
 
 #EXTINF:-1 group-title="tv República Dominicana", Canal 53 Luna República Dominicana
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
@@ -987,11 +999,17 @@ https://video.misistemareseller.com/srctv/srctv/playlist.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", Hilando Fino República Dominicana
 https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 
+===============china=============
+
 #EXTINF:-1 group-title="tv china",  CGTN Spanish china
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8?PlaylistM3UCL
 
+=========================francia ===================
+
 #EXTINF:-1 group-title="tv francia ", France 24 Espanol francia 
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_500.m3u8?PlaylistM3UCL
+
+========================gremania=========================
 
 #EXTINF:-1 group-title="tv gremania ",  DW Espanol gremania
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
@@ -999,8 +1017,12 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 #EXTINF:-1 group-title="tv gremania ",  Sophia TV Espanol gremania
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8?PlaylistM3UCL
 
+===============portugal========================
+
 #EXTINF:-1 group-title="tv portugal ",  TV Mana Espanhol portugal
 https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?PlaylistM3UCL
+
+================rucia=================
 
 #EXTINF:-1 group-title="tv RUCIA ", RT en Espanol rucia
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8?PlaylistM3UCL
@@ -1008,8 +1030,12 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv RUCIA ", TV BRICS rucia
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
+==============iran=====
+
 #EXTINF:-1 group-title="tv IRAN ",  HispanTV Irán
 https://live.presstv.ir/hls/hispantv.m3u8
+
+============== estados unidos ===========
 
 #EXTINF:-1 group-title="tv Estados unidos ", Manantial de Adoración Estados unidos 
 https://5bf8041cb3fed.streamlock.net/ManantialdeAdoracionTV/ManantialdeAdoracionTV/playlist.m3u8
@@ -1085,6 +1111,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.
 #EXTINF:-1 group-title="tv Estados unidos ", freetv saber estados unidos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
+=====================salvador================
+
 #EXTINF:-1 group-title="tv salvador ", canal2 Salvador
 https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
@@ -1097,11 +1125,15 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
 #EXTINF:-1 group-title="tv salvador ", Canal 12 salvador
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
+=================nicaragua ====================
+
 #EXTINF:-1 group-title="tv nicaragua ", TN8 nicaragua
 https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 
 #EXTINF:-1 group-title="tv nicaragua ", Escuchame Radio Tv Nicaragua
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+
+===============puerto rico===========
 
 #EXTINF:-1 group-title="tv puerto rico ", DNJ TV puerto rico
 https://cloud2.streaminglivehd.com:1936/dnjv2/dnjv2/playlist.m3u8
@@ -1121,11 +1153,10 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="tv puerto rico ", Salvacion TV puerto rico
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 
-
+================== variado===========
 
 #EXTINF:-1 group-title=" VARIADO ", Radio Televisión Mogán (1080p)
 https://cloudvideo.servers10.com:8081/8028/index.m3u8
-
 
 
 #EXTINF:-1 group-title=" VARIADO ", El Confidencial TV (1080p)
@@ -1137,8 +1168,7 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 group-title=" VARIADO ", stv
 https://lstv.duckdns.org:449/hls/stv.m3u8
 
-
-
+=============TV TEMÁTICA=============
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  La fiebre del jade
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JadeFeverSpanish&ads.csid=zeus_es_indigeniuslefiebredeljade_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5915&ads.rakuten_streaming_id=b77e20f6-cdb9-41cb-8580-29105b491141&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883088&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883088
@@ -1214,6 +1244,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea71d48a
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  Misterios sin Resolver
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+==============CINE Y ENTRETENIMIENTO==================
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -1304,6 +1336,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/pl
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", Free TV Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
+===================TELENOVELAS Y DRAMAS=============
+
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Romance Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
@@ -1331,7 +1365,7 @@ https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas España
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
-
+====================DIBUJOS ANIMADOS=============
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  ToonamiTV
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
@@ -1357,6 +1391,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+====================deportes===========
 
 #EXTINF:-1 group-title="DEPORTES",  ITV Deportes mexico 
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8?PlaylistM3UCL
@@ -1385,6 +1421,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 #EXTINF:-1 group-title="DEPORTES", eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 
+===============music =============
+
 #EXTINF:-1 group-title="Music",Hit Tv
 http://185.189.225.149/HitTV/index.m3u8
 
@@ -1408,6 +1446,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

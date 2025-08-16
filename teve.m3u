@@ -562,6 +562,8 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 #EXTINF:-1 group-title="tv bolivia ", turrialba TV BOLIVIA 
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
+=================costa rica ==========
+
 #EXTINF:-1 group-title="tv COSTA RICA ",  Voice Over Radio TV COSTA RICA 
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 
@@ -610,6 +612,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv COSTA RICA ",  luz naciente COSTA RICA  
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8?PlaylistM3UCL
 
+=========== panama =======
+
 #EXTINF:-1 group-title="tv PANAMA", Hispania TV PANAMA  
 https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8?PlaylistM3UCL
 
@@ -621,6 +625,8 @@ https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8?PlaylistM3UC
 
 #EXTINF:-1 group-title="tv PANAMA", Istmo Tv Panama  
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+
+========chile ============
 
 #EXTINF:-1 group-title="TV chile", Teletrack chile 
 https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
@@ -664,8 +670,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 group-title="TV chile", radio chile 
 https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", galactika-1 chile 
-https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", clublecircle chile 
 https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
@@ -755,8 +760,7 @@ https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", teleangol chile 
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", CRadio chile 
-https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", canaltvm chile 
 https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL
@@ -1404,6 +1408,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

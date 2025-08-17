@@ -4,91 +4,91 @@
 
 ==================ecuador=================
 
-#EXTINF:-1 group-title="tv Ecuador ",  america estere oquito Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   america estere oquito  
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", CATOMEDIA Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  CATOMEDIA
 https://stream.catomedia.net/catomedia-app/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", NORTIVISION Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  NORTIVISION 
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ",  Asomavision | Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   Asomavision | 
 https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", australtv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  australtv 
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ",  Canal 5 STV San Vito | Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   Canal 5 STV San Vito |  
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ",  Canal GM7 DIGITAL | Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Canal GM7 DIGITAL |  
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ",  Canal sur| Ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Canal sur| 
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", curiquingue ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  curiquingue 
 https://video2.lhdserver.es/pjtv/live.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", ecoteltv ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] ecoteltv 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", Ecuador TV ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Ecuador TV 
 https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", ecuavisa ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  ecuavisa  
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", educa tv ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  educa tv 
 https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ",  Recuerdos Retro ecuador 
+#EXTINF:-1 group-title="tv Ecuador ",  [Ecuador] Recuerdos Retro 
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", hechos tv ecuador
+#EXTINF:-1 group-title="tv Ecuador ",  [Ecuador] hechos tv 
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", latacunga tv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  latacunga tv 
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", majestadtv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  majestadtv 
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", oromartv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] oromartv 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", PURUWA TV ECUADOR
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  PURUWA TV 
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", rtrtv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  rtrtv
 https://tv3ecuador.site/hls/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", rtu ecuador 
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  rtu 
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", sonovision tv ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  sonovision tv
 https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", teleamazonas ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  teleamazonas 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", TELEMAR ECUADOR
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  TELEMAR 
 https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", tv color ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] tv color 
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", tvc ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] tvc 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", rts ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] rts 
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", uno ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  uno 
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ",  MULTICANAL | Ecuador
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  MULTICANAL | 
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 ================= mexico ==============================
@@ -1446,6 +1446,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

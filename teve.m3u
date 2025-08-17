@@ -553,63 +553,63 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 
 ====================== bolivia ============
 
-#EXTINF:-1 group-title="tv bolivia ",  punto tv bolivia
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia]  punto tv 
 https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv bolivia ",  f10 bolivia
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] f10 
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
-#EXTINF:-1 group-title="tv bolivia ", turrialba TV BOLIVIA 
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] turrialba TV 
 https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
 
 =================costa rica ==========
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  Voice Over Radio TV COSTA RICA 
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  Voice Over Radio TV 
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   Canal Telered COSTA RICA 
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica] Canal Telered 
 https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  Enlace TV En Vivo COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica] Enlace TV En Vivo
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  canal1 COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  canal1
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   canal8 COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica] canal8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   limontv COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica] limontv 
 https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  nicoyatv COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica] nicoyatv 
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  n COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  n
 https://videohd.live:19360/8076/8076.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  TVNOSARA COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  TVNOSARA
 https://latamvdo.com:3870/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  TVSUR COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  TVSUR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   vmlatino COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  vmlatino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  tvurbano COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  tvurbano
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",   videotour COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  videotour
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  VO COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  VO  
 https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  CableLatino COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  CableLatino
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  luz naciente COSTA RICA  
+#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  luz naciente
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8?PlaylistM3UCL
 
 =========== panama =======
@@ -1446,6 +1446,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

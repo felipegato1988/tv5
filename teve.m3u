@@ -25,7 +25,7 @@ https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1 group-title="tv Ecuador " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZ68ZSW0pwek7stcS-URNlV3Hha-WB4Q2-IgF7SzR2GTj2C_Q0_hM7o9oV_XBwL0nFjY&usqp=CAU", [Ecuador]  Canal GM7 DIGITAL |  
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdZTIyRYwpd1RToRPgtZSFyx6ZizzLIxPSQW9qMrVIdtIdjben_sjvVeIkHG86x1eFlU&usqp=CAU", [Ecuador]  Canal sur| 
+#EXTINF:-1 group-title="tv Ecuador " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GDIaGkXmq_wttghjpcoSyKRTVTZtV9zLrenJvHnuRwXaNDiEkQLsikWLgXpL4p31edc&usqp=CAU", [Ecuador]  Canal sur| 
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  curiquingue 
@@ -1446,6 +1446,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

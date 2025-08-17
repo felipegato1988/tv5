@@ -4,10 +4,10 @@
 
 ==================ecuador=================
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   america estere oquito  
+#EXTINF:-1 group-title="tv Ecuador " tvg-logo="https://cdn-radiotime-logos.tunein.com/s18591g.png", [Ecuador]   america estere oquito  
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  CATOMEDIA
+#EXTINF:-1 group-title="tv Ecuador " tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/UCSG-Televisi%C3%B3n-en-vivo-Online.png", [Ecuador]  CATOMEDIA
 https://stream.catomedia.net/catomedia-app/index.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  NORTIVISION 
@@ -1446,6 +1446,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

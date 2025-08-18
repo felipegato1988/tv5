@@ -694,7 +694,7 @@ https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM
 #EXTINF:-1 group-title="TV chile", [Chile]  hybrid
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", 13cultura chile 
+#EXTINF:-1 group-title="TV chile", [España]  13cultura 
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", [Chile] Canal 13 Tele Series
@@ -1394,6 +1394,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

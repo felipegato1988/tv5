@@ -135,8 +135,8 @@ https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="tv mexico ", [Mexico] Canal Iberoamericano
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", [Mexico] Espacio Universitario 
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef8c36ea6_all/playlist.m3u8
+#EXTINF:-1 group-title="tv mexico ", [Mexico] creala tv
+https://stream8.mexiserver.com:19360/crealatv/crealatv.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", [Mexico] Jalisco TV 
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
@@ -694,7 +694,7 @@ https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM
 #EXTINF:-1 group-title="TV chile", [Chile]  hybrid
 https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [España]  13cultura 
+#EXTINF:-1 group-title="TV chile",  [Chile] 13cultura 
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", [Chile] Canal 13 Tele Series
@@ -1394,6 +1394,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

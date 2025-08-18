@@ -341,7 +341,7 @@ https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
 #EXTINF:-1 group-title="tv España ", [España]  Durangaldeko Telebista (576p) 
 https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
 
-#EXTINF:-1 group-title="tv España ", Fuerteventura TV (1080p)
+#EXTINF:-1 group-title="tv España ", [España] Fuerteventura TV (1080p)
 https://5c0956165db0b.streamlock.net/ftv/directo/.m3u8
 
 #EXTINF:-1 group-title="tv España ", [España]  Lancelot TV (404p) 
@@ -1394,6 +1394,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

@@ -113,8 +113,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1  group-title="tv mexico ", [Mexico] Alcance Tv| 
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 
-#EXTINF:-1  group-title="tv mexico ", [Mexico] Aprende TV 
-https://stream.aprende.gob.mx/telesecundaria_3/hls/index.m3u8
+
 
 #EXTINF:-1  group-title="tv mexico ", [Mexico] az uno 
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
@@ -125,8 +124,7 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8?PlaylistM3UCL
 #EXTINF:-1  group-title="tv mexico ", [Mexico] C4 En Alerta
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
 
-#EXTINF:-1  group-title="tv mexico ", [Mexico] telemax |
-https://s5.mexside.net:1936/telemax/telemax/.m3u8
+
 
 #EXTINF:-1  group-title="tv mexico ", [Mexico] estrellatv 
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -248,17 +246,13 @@ https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  visiondorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  cosmovicion 
-https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  ctv 
-https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  suramtv  
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  teleislas 
-https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia] tvpenol 
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
@@ -538,8 +532,6 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ",  [Peru]  canal8 
 https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   controversiatv 
-https://live.obslivestream.com/controversiatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv PERU ", [Peru]   crtvmux 
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
@@ -573,8 +565,7 @@ https://cloud5.streaminglivehd.com:3819/hybrid/play.m3u8
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] f10 
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
-#EXTINF:-1 group-title="tv bolivia ", [Bolivia] turrialba TV 
-https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8
+
 
 =================costa rica ==========
 
@@ -623,8 +614,6 @@ https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR&PlaylistM3UCL
 #EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  CableLatino
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  Canal Los Santos
-https://lstv.duckdns.org:449/hls/lstv.m3u8
 
 =========== panama =======
 
@@ -735,8 +724,6 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", [Chile]  margamargatv 
 https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile] ESTACION TV
-https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", [Chile]  TVO
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL
@@ -859,8 +846,7 @@ https://stream.vivotv.uy/hls/stream.m3u8
 
 ==========honduras=========
 
-#EXTINF:-1 group-title="tv Honduras", [Honduras]  Canal Metro TV
-hhttps://s.emisoras.tv:8081/metrotv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="tv Honduras", [Honduras]  Suyapa TV
 https://5f2c1b0d880e5.streamlock.net/suyapa2/videosuyapa2/playlist.m3u8
@@ -1393,6 +1379,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

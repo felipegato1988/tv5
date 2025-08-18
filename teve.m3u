@@ -623,8 +623,8 @@ https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8?Playlist
 #EXTINF:-1 group-title="tv PANAMA", [Panama]  Hosanna Vision 
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PANAMA", [Panama]   MINFAV TV
-https://video.misistemareseller.com/minfavtv/minfavtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="tv PANAMA", [Panama]    Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 #EXTINF:-1 group-title="tv PANAMA", [Panama] Istmo Tv 
 https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
@@ -1379,6 +1379,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

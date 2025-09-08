@@ -141,9 +141,6 @@ https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 group-title="tv mexico ", [Mexico] Sintonía Pública TV 
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 
-#EXTINF:-1 group-title="tv mexico ", [Mexico] TV Mar Puerto Vallarta 
-https://5ca3e84a76d30.streamlock.net/tvmarvallarta/smil:tvmarvallarta.smil/playlist.m3u8
-
 #EXTINF:-1 group-title="tv mexico ", [Mexico] RTG 
 https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
 
@@ -436,9 +433,6 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   m 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina", [Argentina]  quatro 
-https://stream.arcast.live/quatro/quatro/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   argentina 
 http://204.199.3.2/.m3u8?PlaylistM3UCL
 
@@ -552,9 +546,6 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] cinerama
 https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
-
-#EXTINF:-1 group-title="tv bolivia ", [Bolivia]  punto tv 
-https://live20.bozztv.com/akamaissh101/ssh101/punto/chunks.m3u8
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] f10 
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
@@ -914,8 +905,6 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?Playlist
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Teleantillas
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Teleuniverso Canal 29 
-https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Naranja TV 
 https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
@@ -985,8 +974,6 @@ https://live.presstv.ir/hls/hispantv.m3u8
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  Manantial de Adoración
 https://5bf8041cb3fed.streamlock.net/ManantialdeAdoracionTV/ManantialdeAdoracionTV/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  América TeVé
-https://tgn2.bozztv.com/americateve/americateve1/americateve--1/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]   Telemundo 51 Miami 
 https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
@@ -1108,9 +1095,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="TV TEMÁTICA",  [Canales de documentales y conocimiento]  Saber más
 https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
-#EXTINF:-1 group-title="TV TEMÁTICA",  [Canales de documentales y conocimiento]  Pluto TV Ciencia
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 group-title="TV TEMÁTICA", [Canales de documentales y conocimiento]  Smithsonian Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63a084934734f30007457b2c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
@@ -1122,9 +1106,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de5758e1
 
 #EXTINF:-1 group-title="TV TEMÁTICA",   [Canales de documentales y conocimiento] Pluto TV Naturaleza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
-#EXTINF:-1 group-title="TV TEMÁTICA",  [Canales de documentales y conocimiento]  Pluto TV Animales
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:-1 group-title="TV TEMÁTICA",  [Canales de mascotas]  Vivir con Gatos
 https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f8mwmw8baqnwt-ssai-prd/fast-channel-vivir-con-gatos.m3u8
@@ -1274,9 +1255,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7958
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Venezolanas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Colombianas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS",  Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
@@ -1297,8 +1275,7 @@ https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Cartoon clásico] Pluto TV Retro Cartoons
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", [Cartoon clásico] Nickelodeon Clásico
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1368,6 +1345,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

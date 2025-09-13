@@ -1258,7 +1258,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6474a8691
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS",  Kanal D Drama
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Dramas Coreanos
+#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas Asiáticas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS}
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Sony Novelas (MX)
@@ -1345,6 +1345,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

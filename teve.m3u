@@ -262,7 +262,14 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 #EXTINF:-1 group-title="tv España ", [España] El Confidencial TV (1080p)
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
+#EXTINF:-1 group-title="tv España ", [España]  Tevecat
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 
+#EXTINF:-1 group-title="tv España ", [España]  Canal tv3
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/bitrate_1.m3u8
+
+#EXTINF:-1 group-title="tv España ", [España]  FAMYPANC TV
+https://panel.host-live.com:19360/8042/8042.m3u8
 
 #EXTINF:-1 group-title="tv España ", [España] Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
@@ -270,8 +277,8 @@ https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="tv España ", [España] Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 
-#EXTINF:-1 group-title="tv España ",  [España]  Ciudades Del Ocio TV (720p)
-https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 group-title="tv España ",  [España]  Torremolinos
+https://cdnlivevlc.codev8.net/canaltorremolinoslive/smil:channel1.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1 group-title="tv España ",  [España]  El Toro TV (720p)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
@@ -1345,6 +1352,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

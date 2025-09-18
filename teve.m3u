@@ -681,7 +681,7 @@ https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM
 #EXTINF:-1 group-title="TV chile", [Chile]  stv 
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile]  estado de  
+#EXTINF:-1 group-title="TV chile", [Chile]  estado  
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", [Chile]  tv senado
@@ -690,8 +690,6 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", [Chile]  pura noticia  
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile]  caracola-tv  
-https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="TV chile", [Chile]  tevexoficial 
 https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
@@ -730,8 +728,8 @@ https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", [Chile]  teleangol
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile] canaltvm 
-https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="TV chile", [Chile] Canal UATV 
+https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/chunks.m3u8?nimblesessionid=5774250519
 
 #EXTINF:-1 group-title="TV chile", [Chile] cronicas del sur 
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL
@@ -1027,9 +1025,6 @@ https://s5.mexside.net:1936/medios/medios/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  AFV Espanol
 https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  CBN Espanol
-https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
@@ -1347,6 +1342,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

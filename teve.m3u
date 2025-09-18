@@ -53,7 +53,7 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?Playl
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  majestadtv 
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador] oromartv 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
@@ -1345,6 +1345,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

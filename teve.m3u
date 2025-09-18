@@ -373,19 +373,22 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 https://vcp10.myplaytv.com/canali/canali/chunklist_w581097717.m3u8
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]  REFORMA TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w920236155.m3u8
+https://5bf8041cb3fed.streamlock.net/ReformaTV/Reform3aTV/chunklist_w920236155.m3u8
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]   telearagua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCLL
 
-#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  VPITV 2
-https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  Venevision 
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1160000.m3u8
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]  Telesol
 https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]  Somos TV 
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  TV Fanb
+https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1856782997.m3u8
 
 ================= argentina ===============
 
@@ -1349,6 +1352,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

@@ -1117,6 +1117,9 @@ https://60417ddeaf0d9.streamlock.net/tn8/videotn8/playlist.m3u8
 #EXTINF:-1 group-title="tv nicaragua ", [Nicaragua]  Escuchame Radio Tv 
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 
+#EXTINF:-1 group-title="tv nicaragua ", [Nicaragua]  WTV CANAL 20
+https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
+
 ===============puerto rico===========
 
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico]  DNJ TV
@@ -1399,6 +1402,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

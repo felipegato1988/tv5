@@ -550,6 +550,15 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ", [Peru]   cablerasvia  
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="tv PERU ", [Peru]   ANGUIENET TV
+https://servilive.com:3624/stream/play.m3u8
+
+#EXTINF:-1 group-title="tv PERU ", [Peru]   CANAL IPE
+https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
+
+#EXTINF:-1 group-title="tv PERU ", [Peru]   CR
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
 ====================== bolivia ============
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] cinerama
@@ -1412,6 +1421,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

@@ -916,6 +916,11 @@ https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
 #EXTINF:-1 group-title="tv guatemala", [Guatemala] CANAL 13 ESQUIPULAS
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] PENIEL KIDS
+https://s.emisoras.tv:8081/penielkids/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -1402,6 +1407,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

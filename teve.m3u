@@ -873,8 +873,29 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 
 =============guatemala=================
 
+
+
 #EXTINF:-1 group-title="tv guatemala", [Guatemala]  chapin 3 
 https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala]  AMIGOS TV
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] auroram fLIM
+https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] BARBE TV
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] CANAL 100 CHINIQUE
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
+#EXTINF:-1 group-title="tv guatemala", [Guatemala] CANAL 13 ESQUIPULAS
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+
+
+
+
 
 ==================República Dominicana===========
 
@@ -1355,6 +1376,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

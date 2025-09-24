@@ -96,6 +96,12 @@ https://live.obslivestream.com/sonoondatv/index.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  RVP SAS TV
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
+
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  uniandes 
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  zacaray
+https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 ================= mexico ==============================
 
 #EXTINF:-1 group-title="tv mexico ", [Mexico]  RCG3
@@ -933,6 +939,13 @@ https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] telecentro
 https://live2.telemicro.com.do/web/telecentro/playlist.m3u8
 
+
+
+===============Guinea Ecuatorial AFRICA =============
+#EXTINF:-1 group-title="tv china", [Guinea Ecuatorial AFRICA] SOL TV
+https://stream.solmediaeg.com/soltv/soltv.m3u8
+
+
 ===============china=============
 
 #EXTINF:-1 group-title="tv china", [China]  CGTN Spanish 
@@ -1342,6 +1355,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

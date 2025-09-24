@@ -558,7 +558,29 @@ https://owncloud1692001.fasthostunlimited.com/hls/stream.m3u8
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] f10 
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] CEACOM TV
+https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] F10
+https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] PALENQUE TV
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] TDT
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2146807799.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] TV OFF
+https://seo.tv.bo/tv/TV-OFF.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] UMSA
+https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] UNIVALLE
+https://master.tucableip.com/univalletv/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="tv bolivia ", [Bolivia] UNIVERSIDA MAYOR
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 
 =================costa rica ==========
@@ -1377,6 +1399,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

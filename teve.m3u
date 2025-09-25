@@ -1068,6 +1068,35 @@ https://hilandofinotv.essastream.com:3606/live/canalhilandofinotvlive.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] telecentro
 https://live2.telemicro.com.do/web/telecentro/playlist.m3u8
 
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] adoram 
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] chinola tv
+https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] cibaena
+https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] colimdo
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] coco tv
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] constanza
+https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] crom
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] cotubanama
+https://host.streamingnation.live/p/3588/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] dam
+https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
+
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] puerto
+https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/chunklist_w801947055.m3u8
 
 
 ===============Guinea Ecuatorial AFRICA =============
@@ -1436,6 +1465,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  Pluto TV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime] anime zone 
+https://worker-damp-poetry-68b1.1doi3.workers.dev/http://animezonetv.net/hls/stream.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1492,6 +1523,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

@@ -406,6 +406,11 @@ https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]  TV Fanb
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1856782997.m3u8
 
+#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  aguacate tv
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  anzoategui tv
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 ================= argentina ===============
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   Net TV 
@@ -1485,6 +1490,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

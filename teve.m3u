@@ -218,7 +218,11 @@ https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 #EXTINF:-1 group-title="tv mexico ", [Mexico] las estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
+#EXTINF:-1 group-title="tv mexico ", [Mexico] vision
+https://cloudvideo.servers10.com:8081/8016/index.m3u8
 
+#EXTINF:-1 group-title="tv mexico ", [Mexico] ultra tv puebla
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 ============== sudan ==================
 #EXTINF:-1 group-title="tv sudan ", [Sudan] Teleritmo | 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
@@ -262,6 +266,12 @@ https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  Love The Planet 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="tv colombia ", [Colombia]  zoom 
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+
+#EXTINF:-1 group-title="tv colombia ", [Colombia]  san jorgue
+https://asucap.com/livestream/asucap_envivo.m3u8
 
 ============== españa ===========================
 
@@ -1470,6 +1480,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

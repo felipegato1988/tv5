@@ -1098,8 +1098,8 @@ https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] puerto
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/chunklist_w801947055.m3u8
 
-
-
+#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] larivision tv
+https://live.larimartv.net/livelan/stream.m3u8
 
 ===============Guinea Ecuatorial AFRICA =============
 #EXTINF:-1 group-title="AFRICA", [Guinea Ecuatorial AFRICA] SOL TV
@@ -1525,6 +1525,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

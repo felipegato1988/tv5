@@ -28,8 +28,8 @@ https://s2.tvdatta.com:3858/hybrid/play.m3u8
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Canal sur| 
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  gm7
-https://s2.tvdatta.com:3858/live/gm7digitallive.m3u8
+#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  manavision
+https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
 #EXTINF:-1 group-title="tv Ecuador ", [Ecuador] ecoteltv 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
@@ -1470,6 +1470,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

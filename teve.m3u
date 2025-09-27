@@ -104,6 +104,9 @@ https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 ================= mexico ==============================
 
+#EXTINF:-1 group-title="tv mexico ", [Mexico]  univision
+https://stream.unison.mx/hls/unisontvatem.m3u8
+
 #EXTINF:-1 group-title="tv mexico ", [Mexico]  RCG3
 https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1874399566.m3u8
 
@@ -211,8 +214,6 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="tv mexico ",  [Mexico] Canal 10 Chetumal | HD 
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv mexico ", [Mexico]  Canal 66 El Canal de las Noticias 
-https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="tv mexico ", [Mexico] las estrellas HD
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
@@ -469,8 +470,6 @@ http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 https://stmvideo1.livecastv.com/televideo/televideo/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 group-title="tv argentina ", [Argentina]    tributv 
-https://stream.arcast.com.ar/tributv/tributv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]    tvmana 
 https://w2.manasat.com:443/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8?PlaylistM3UCL
@@ -562,8 +561,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 #EXTINF:-1 group-title="tv PERU ", [Peru]   ANGUIENET TV
 https://servilive.com:3624/stream/play.m3u8
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   CANAL IPE
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
+
 
 
 
@@ -1027,9 +1025,6 @@ https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] chinola tv
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] cibaena
-https://streamunoapp.com:3958/live/cibaenatvlive.m3u8
-
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] colimdo
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 
@@ -1472,6 +1467,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

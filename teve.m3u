@@ -2,105 +2,105 @@
 
 #EXTM3U
 
-==================ecuador=================
+================== ecuador =================
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   america estere oquito  
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]   america estere oquito  
 https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  CATOMEDIA
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CATOMEDIA
 https://stream.catomedia.net/catomedia-app/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador " , [Ecuador]  NORTIVISION 
+#EXTINF:-1 group-title="tv ecuador " , [Ecuador]  NORTIVISION 
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   Asomavision | 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]   Asomavision | 
 https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador " , [Ecuador]  australtv 
+#EXTINF:-1 group-title="tv ecuador " , [Ecuador]  australtv 
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]   Canal 5 STV San Vito |  
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]   Canal 5 STV San Vito |  
 https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Canal GM7 DIGITAL |  
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Canal GM7 DIGITAL |  
 https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Canal sur| 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Canal sur| 
 https://avm.ecuamedia.net/canalsur/live/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  manavision
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  manavision
 https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] ecoteltv 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] ecoteltv 
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Ecuador TV 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Ecuador TV 
 https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  ecuavisa  
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  ecuavisa  
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  educa tv 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  educa tv 
 https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ",  [Ecuador] Recuerdos Retro 
+#EXTINF:-1 group-title="tv ecuador ",  [Ecuador] Recuerdos Retro 
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ",  [Ecuador] hechos tv 
+#EXTINF:-1 group-title="tv ecuador ",  [Ecuador] hechos tv 
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  latacunga tv 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  latacunga tv 
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  majestadtv 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  majestadtv 
 https://in.majestadtv.ec/memfs/7543ade7-500e-4276-81c6-8047de39b78c.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] oromartv 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] oromartv 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  PURUWA TV 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  PURUWA TV 
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  rtrtv
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  rtrtv
 https://tv3ecuador.site/hls/stream/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  CAPRICHO TV 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CAPRICHO TV 
 https://video.compuwebecuador.com:3783/stream/play.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  sonovision tv
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  sonovision tv
 https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  teleamazonas 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  teleamazonas 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  TELEMAR 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  TELEMAR 
 https://cloudvideo.servers10.com:8081/8148/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] tv color 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] tv color 
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] tvc 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] tvc 
 https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador] rts 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] rts 
 https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/medialist_15609871089997455276_hls.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  uno 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  uno 
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  MULTICANAL | 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  MULTICANAL | 
 https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  Sono Onda TV
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Sono Onda TV
 https://live.obslivestream.com/sonoondatv/index.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  RVP SAS TV
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  RVP SAS TV
 https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  uniandes 
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  uniandes 
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
-#EXTINF:-1 group-title="tv Ecuador ", [Ecuador]  zacaray
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  zacaray
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 ================= mexico ==============================
 
@@ -1467,6 +1467,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

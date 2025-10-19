@@ -100,14 +100,14 @@ https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  uniandes 
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 
+
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CIRACU
 https://cloud37.ecuatel.com/ciracutv/live/chunklist_w1237011173.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  zacaray
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CANAL VOS Y TV
-https://cloud37.ecuatel.com/vostv/live/chunklist_w939438319.m3u8
+
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  TV COLOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
@@ -1466,6 +1466,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

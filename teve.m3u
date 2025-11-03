@@ -43,9 +43,6 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  educa tv 
 https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv ecuador ",  [Ecuador] Recuerdos Retro 
-https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv ecuador ",  [Ecuador] hechos tv 
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
 
@@ -1464,6 +1461,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

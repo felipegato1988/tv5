@@ -118,11 +118,8 @@ https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CANAL PERLA
 https://eu1.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CURIQUINGUE
-https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CAPRICHU
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+
 
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  SAN VITO
@@ -1461,6 +1458,7 @@ https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

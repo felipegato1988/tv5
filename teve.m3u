@@ -1350,8 +1350,11 @@ https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
 ====================DIBUJOS ANIMADOS=============
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  anime presente
+https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
 
-
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  anime 24
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  LOCOMOTION
 https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
@@ -1362,6 +1365,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS", [Animación infantil]  retro magico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS", [Animación infantil] Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1421,6 +1427,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

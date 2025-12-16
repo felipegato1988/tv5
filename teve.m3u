@@ -82,6 +82,7 @@ https://library-getafix.fireclip.tv/56e2d24bfdcf13ab4a321867/live/index.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador] rts
 https://library-getafix.fireclip.tv/660df7f111b13511c37c8316/live/index.m3u8
 
+
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  uno 
 https://video.ejeserver.com/live/canaluno.m3u8?PlaylistM3UCL
 
@@ -109,11 +110,8 @@ https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  TV COLOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  GM7 DIGITAL
-https://s2.tvdatta.com:3858/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  RVP SAS TV
-https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
+
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CANAL PERLA
 https://eu1.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
@@ -1427,6 +1425,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

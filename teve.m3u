@@ -224,8 +224,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 
 
 
-#EXTINF:-1 group-title="tv mexico ", [Mexico] ultra tv puebla
-https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
 ============== sudan ==================
 #EXTINF:-1 group-title="tv sudan ", [Sudan] Teleritmo | 
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
@@ -249,8 +248,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  Canal 14 Codazzi
-https://eu1.servers10.com:8081/8056/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  visiondorada 
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
@@ -263,8 +261,7 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia] tvpenol 
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  Love The Planet 
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
@@ -279,9 +276,6 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 
 
 
-
-#EXTINF:-1 group-title="tv España ", [España]  FAMYPANC TV
-https://panel.host-live.com:19360/8042/8042.m3u8
 
 #EXTINF:-1 group-title="tv España ", [España] Solidaria TV (720p)
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
@@ -413,8 +407,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 group-title="tv argentina ",  [Argentina]  San Luis 
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 group-title="tv argentina ",  [Argentina]  Radio Yguazú 
-https://live.enhdtv.com:8081/radioiguazutv/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   CN 24/7 
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
@@ -448,8 +441,7 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8?PlaylistM3
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   m 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina ", [Argentina]   argentina 
-http://204.199.3.2/.m3u8?PlaylistM3UCL
+
 
 
 
@@ -490,8 +482,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv argentina ", [Argentina]    sanluis 
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv argentina ", [Argentina]   castv
-https://stream.arcast.com.ar/envivo/castv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   Somos Uno  
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
@@ -527,8 +518,7 @@ https://live.obslivestream.com/canal8/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ", [Peru]   crtvmux 
 https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ",  [Peru]  dmjsurtv 
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 group-title="tv PERU ", [Peru]   1019 
@@ -543,8 +533,7 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv PERU ", [Peru]   cablerasvia  
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   ANGUIENET TV
-https://servilive.com:3624/stream/play.m3u8
+
 
 
 
@@ -553,16 +542,14 @@ https://servilive.com:3624/stream/play.m3u8
 ====================== bolivia ============
 
 
-
-
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] CEACOM TV
-https://eu1.servers10.com:8081/ceacom/tracks-v1a1/mono.m3u8
+https://eu1.servers10.com:8081/ceacom/index.m3u8
+
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] F10
 https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
-#EXTINF:-1 group-title="tv bolivia ", [Bolivia] PALENQUE TV
-https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
+
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] TDT
 https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2146807799.m3u8
@@ -658,8 +645,7 @@ https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", [Chile] LACHILENA TV 
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile] cygtvlive
-https://tv.telselec.cl:3254/live/cygtvlive.m3u8?PlaylistM3UCL
+
 
 
 #EXTINF:-1 group-title="TV chile", [Chile] apocalipsistv 
@@ -681,8 +667,7 @@ https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile",  [Chile] clublecircle 
 https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile]  dancefm_1 
-https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -768,8 +753,7 @@ https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="TV chile", [Chile]  ritmo 987
-https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", [Chile]  emociontv 
 https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL
@@ -800,8 +784,7 @@ https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="TV chile", [Chile]  transmissaodigital 
 https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile", [Chile]  fortalezatv 
-https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -846,11 +829,9 @@ https://livestream.mediacci.com/ccitv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="tv Honduras", [Honduras] ALSACIAS TV
-https://s.emisoras.tv:8081/atv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="tv Honduras", [Honduras] PURINGLA
-https://stmv1.srvif.com/puringla/puringla/playlist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="tv Honduras", [Honduras] GIRASOL TV
@@ -886,8 +867,6 @@ https://mitv.zplay.cl/Invasiva/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="tv paraguay", [Paraguay]  NEX TV
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-#EXTINF:-1 group-title="tv paraguay", [Paraguay]  VENUX MEDIA
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1603368229.m3u8
 
 #EXTINF:-1 group-title="tv paraguay", [Paraguay]  UNION TV
 https://tigocloud.desdeparaguay.net/800tv/800tv/chunklist_w207548235.m3u8
@@ -1055,8 +1034,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 https://5bf8041cb3fed.streamlock.net/ManantialdeAdoracionTV/ManantialdeAdoracionTV/playlist.m3u8
 
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]   Telemundo 51 Miami 
-https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/5a817dba-a6f1-4dac-9871-91e9e76e1762/2.m3u8
+
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  Cops en Español 
 https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
@@ -1099,9 +1077,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  AFV Espanol
-https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv banda
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
 
@@ -1116,14 +1091,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 
 =====================salvador================
 
-#EXTINF:-1 group-title="tv salvador ", [El Salvador]  canal2 
-https://telecorporacion.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/.m3u8
 
-#EXTINF:-1 group-title="tv salvador ", [El Salvador]  canal seis 
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
 
-#EXTINF:-1 group-title="tv salvador ", [El Salvador]   TCS El 
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+
+
+
 
 #EXTINF:-1 group-title="tv salvador ", [El Salvador]  Canal 12 
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
@@ -1157,8 +1129,7 @@ https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] cat tv
 https://video2.getstreamhosting.com:19360/8216/8216.m3u8
 
-#EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] la x
-https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+
 
 =============TV TEMÁTICA=============
 
@@ -1422,6 +1393,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

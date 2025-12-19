@@ -1348,8 +1348,8 @@ https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
 
 ====================DIBUJOS ANIMADOS=============
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  anime presente
-https://live20.bozztv.com/giatvplayout7/giatv-209624/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  ToonamiTV
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/chunks.m3u8
 
 #EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  anime 24
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.m3u8
@@ -1425,6 +1425,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

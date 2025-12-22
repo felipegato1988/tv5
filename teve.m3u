@@ -13,8 +13,8 @@ https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 #EXTINF:-1 group-title="tv ecuador " , [Ecuador]  NORTIVISION 
 https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]   Asomavision | 
-https://asomatv.duckdns.org/livestream/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]   tvcolor 
+https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 
 #EXTINF:-1 group-title="tv ecuador " , [Ecuador]  australtv 
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?PlaylistM3UCL
@@ -60,11 +60,11 @@ https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  rtrtv
 https://tv3ecuador.site/hls/stream/index.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CAPRICHO TV 
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  curiquingue tv 
+https://video2.lhdserver.es/pjtv/live.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  sonovision tv
-https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  el sol tv
+https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  teleamazonas 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8?PlaylistM3UCL
@@ -91,12 +91,11 @@ https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Sono Onda TV
 https://live.obslivestream.com/sonoondatv/index.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  RVP SAS TV
-https://sv72.ecuaradiotv.net/rtvhd/live/chunklist_w1826343280.m3u8
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] multicanal catamayo
+https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
-#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  uniandes 
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador] marca tv
+https://eu1.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  CIRACU
 https://cloud37.ecuatel.com/ciracutv/live/chunklist_w1237011173.m3u8
@@ -1393,6 +1392,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

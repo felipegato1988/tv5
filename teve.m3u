@@ -416,16 +416,14 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/index.m3u8
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   Canal 7 Jujuy 
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 group-title="tv argentina ",  [Argentina]   Xtrema TV - Animal 
-https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
+
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]    Xtrema TV - Cine Acción 
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="tv argentina ",  [Argentina]   93.1 
-https://stmvideo6.livecastv.com/elborne/elborne/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv argentina ",  [Argentina]   canal 13 
 https://stream.arcast.net:4443/mp/mp/playlist.m3u8?PlaylistM3UCL
@@ -497,8 +495,7 @@ https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
 #EXTINF:-1 group-title="tv PERU ", [Peru]   Tv en Linea Cusco 
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   planeta tv
-https://live.obslivestream.com/planetatv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv PERU ", [Peru]   ondadigitaltv
 https://v4.tustreaming.cl:443/ondadigitaltv/index.m3u8?PlaylistM3UCL
@@ -516,8 +513,6 @@ https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   1019 
-https://servilive.com:3028/live/jntv19live.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv PERU ",  [Peru]  cosmos
 https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
@@ -537,8 +532,7 @@ https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM
 ====================== bolivia ============
 
 
-#EXTINF:-1 group-title="tv bolivia ", [Bolivia] CEACOM TV
-https://eu1.servers10.com:8081/ceacom/index.m3u8
+
 
 
 #EXTINF:-1 group-title="tv bolivia ", [Bolivia] F10
@@ -643,8 +637,6 @@ https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="TV chile", [Chile] apocalipsistv 
-https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 group-title="TV chile", [Chile]  bbtv
@@ -659,8 +651,7 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 group-title="TV chile", [Chile]  radio 
 https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="TV chile",  [Chile] clublecircle 
-https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL
+
 
 
 
@@ -724,8 +715,7 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 
 
 
-#EXTINF:-1 group-title="TV chile", [Chile] aysentv
-https://v1.tustreaming.cl/aysentv/index.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile",  [Chile]  aradiosoberania 
 https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
@@ -889,8 +879,7 @@ https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist_1080.m3u8
 #EXTINF:-1 group-title="tv guatemala", [Guatemala] BARBE TV
 https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
-#EXTINF:-1 group-title="tv guatemala", [Guatemala] CANAL 100 CHINIQUE
-https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
+
 
 
 
@@ -925,8 +914,7 @@ https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  Catorce TV 
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] MicroHD 
-https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  Ready 
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
@@ -1040,8 +1028,7 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  3ABN LATINO 
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]   La Mega Mundial 
-https://server40.servistreaming.com:3477/stream/play.m3u8
+
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  Marti Tv
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/master.m3u8
@@ -1388,6 +1375,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

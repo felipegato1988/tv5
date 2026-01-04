@@ -232,8 +232,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="tv colombia ", [Colombia]  Life Fit 
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  TDI 
-https://cdn.amelbasoluciones.co:8081/tdicolombia/index.fmp4.m3u8
+
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia] Oasis Tv 
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
@@ -1364,6 +1363,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

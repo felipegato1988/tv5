@@ -16,7 +16,7 @@ https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 
 
 #EXTINF:-1 group-title="tv ecuador " , [Ecuador]  australtv 
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?PlaylistM3UCL
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?hls_ctx=v49z22o5
 
 
 
@@ -39,7 +39,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  educa tv 
-https://vid2.ecuamedia.net/educatv/live/chunklist_w534755194.m3u8?PlaylistM3UCL
+https://avm.ecuamedia.net/educatv/live/chunklist_w352711645.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ",  [Ecuador] hechos tv 
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
@@ -115,7 +115,7 @@ https://eu1.servers10.com:8081/8068/index.m3u8
 ================= mexico ==============================
 
 #EXTINF:-1 group-title="tv mexico ", [Mexico]  canal 10
-https://stream2.canal10mx.com/live/movil/chunklist_w2065777619.m3u8
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/chunklist_w947735692.m3u8
 
 
 
@@ -211,8 +211,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8?Play
 
 
 
-#EXTINF:-1 group-title="tv mexico ",  [Mexico] Canal 10 Chetumal | HD 
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 
 
 
@@ -226,19 +224,15 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3U
 
 =================== colombi a==============
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia] Fish Tank 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  Life Fit 
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+
 
 
 
 #EXTINF:-1 group-title="tv colombia ", [Colombia] Oasis Tv 
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
-#EXTINF:-1 group-title="tv colombia ", [Colombia]  Toonz Kids
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids-spanish/master.m3u8
+
 
 
 
@@ -378,8 +372,7 @@ https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/11600
 
 
 
-#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  Somos TV 
-https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]  TV Fanb
 https://vcp2.myplaytv.com/tvfanb/tvfanb/chunklist_w1856782997.m3u8
@@ -401,8 +394,6 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
 
 
-#EXTINF:-1 group-title="tv argentina ", [Argentina]   CN 24/7 
-https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
 
 #EXTINF:-1 group-title="tv argentina ", [Argentina]   Canal Orbe 21 
 https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
@@ -480,8 +471,7 @@ https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 
 ================= peru =====================
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   TV Cosmos 15.1 
-https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+
 
 
 
@@ -510,11 +500,9 @@ https://live.obslivestream.com/crtvmux/index.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="tv PERU ",  [Peru]  cosmos
-https://5790d294af2dc.streamlock.net:443/8134/8134/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv PERU ", [Peru]   vviaaltomayo 
-https://live.obslivestream.com/viaaltomayomux/index.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 group-title="tv PERU ", [Peru]   cablerasvia  
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
@@ -582,8 +570,7 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  TVSUR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ",  [Costa Rica]  vmlatino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  tvurbano
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3UCL
@@ -710,8 +697,7 @@ https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3
 
 
 
-#EXTINF:-1 group-title="TV chile",  [Chile]  aradiosoberania 
-https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", [Chile]   melinkana  
 https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL
@@ -741,8 +727,7 @@ https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 group-title="TV chile",  [Chile] fiesta-video-01
-https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", [Chile]  camila 
 https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL
@@ -944,8 +929,7 @@ https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] colimdo
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] coco tv
-https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] constanza
 https://live20.bozztv.com/akamaissh101/ssh101/ctv8hd/chunks.m3u8
@@ -1036,14 +1020,12 @@ https://5bf8041cb3fed.streamlock.net/MiAmoriVidaTV/MiAmoriVidaTV/playlist.m3u8
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos] Nosey 
 https://nosey-3-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ",  [Estados unidos] El Conflicto TV 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3961
+
 
 #EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]   Backstage 
 https://amg00375-fusemedia-backstageespanol-ono-espoe.amagi.tv/playlist/amg00375-fusemedia-backstageespanol-ono/playlist.m3u8
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]   Glewed TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8
+
 
 
 
@@ -1090,8 +1072,7 @@ https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playl
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] Telemundo 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] The Retro Channel 
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
 
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] Salvacion TV 
 https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
@@ -1261,8 +1242,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 
 ===================TELENOVELAS Y DRAMAS=============
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Romance Channel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
+
 
 #EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Pluto TV Novelas 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -1362,6 +1342,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

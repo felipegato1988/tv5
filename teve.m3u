@@ -4,7 +4,8 @@
 
 ================== ecuador =================
 
-
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  austral tv
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8?hls_ctx=08806en4
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
@@ -1311,6 +1312,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

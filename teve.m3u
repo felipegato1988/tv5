@@ -1302,8 +1302,7 @@ https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 group-title="Music", Sol Música (720p)
 https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
 
-#EXTINF:-1 group-title="Music",STZ Telebista (1080p)
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+
 
 #EXTINF:-1 group-title="Music", Hits Mexicanos | mexico
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/M1TPUUHDPEDU1ZZW8Y1T/hls3/now,-1m/master.m3u8
@@ -1313,6 +1312,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

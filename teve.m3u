@@ -1040,8 +1040,6 @@ https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] WIPR-TV 
 https://streamwipr.pr/hls/stream/index.m3u8?
 
-#EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] CDM Internacional En Vivo
-https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 
 #EXTINF:-1 group-title="tv puerto rico ", [Puerto Rico] Telemundo 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -1315,6 +1313,7 @@ https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="Music", MUSICA CLASICA
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/1751200/manifest.m3u8
+
 
 
 

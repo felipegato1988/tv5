@@ -56,7 +56,7 @@ https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  educa tv 
-https://avm.ecuamedia.net/educatv/live/chunklist_w352711645.m3u8
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ",  [Ecuador] hechos tv 
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?PlaylistM3UCL
@@ -1313,6 +1313,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff393460
 
 #EXTINF:-1 group-title="DEPORTES",  [deportes electrónicos]  eSports Max TV
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+
 
 
 

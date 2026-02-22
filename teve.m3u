@@ -516,8 +516,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 
 
 
-#EXTINF:-1 group-title="tv bolivia ", [Bolivia] TDT
-https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w2146807799.m3u8
+
 
 
 
@@ -943,10 +942,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?Pla
 #EXTINF:-1 group-title="tv Alemania ",  [Alemania]   Sophia TV Espanol 
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8?PlaylistM3UCL
 
-===============portugal========================
 
-#EXTINF:-1 group-title="tv portugal ",  [Portugal]  TV Mana Espanhol 
-https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8?PlaylistM3UCL
 
 ================rucia=================
 
@@ -1308,6 +1304,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Music",[Music] Hits Mexicanos | mexico
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/M1TPUUHDPEDU1ZZW8Y1T/hls3/now,-1m/master.m3u8
+
 
 
 

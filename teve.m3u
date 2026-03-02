@@ -1024,7 +1024,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playli
 
 
 #EXTINF:-1 group-title="tv salvador ", [El Salvador]  Canal 12 
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/53108ffe-0b7e-46ab-bc14-3a9c30010939/ts:abr.m3u8
 
 =================nicaragua ====================
 
@@ -1189,6 +1189,7 @@ https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="Music",[Music] Hits Mexicanos | mexico
 https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/M1TPUUHDPEDU1ZZW8Y1T/hls3/now,-1m/master.m3u8
+
 
 
 

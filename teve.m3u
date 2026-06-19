@@ -289,8 +289,7 @@ https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="tv España ", [España]  7 TeleValencia (576p) 
 https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv España ", [España] 101tv Axarquia (480p)  
-https://www.streaming101tv.es:19360/axarquia/axarquia.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv España ",  [España]  Activa TV (720p)  
 https://streamtv.mediasector.es/hls/activatv/index.m3u8?PlaylistM3UCL
@@ -341,8 +340,7 @@ https://streamtv.intervenhosting.net:3718/live/kandelamedioslive.m3u8
 
 
 
-#EXTINF:-1 group-title="tv venezuela ", [Venezuela]  REFORMA TV
-https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/chunklist_w1707215511.m3u8
+
 
 #EXTINF:-1 group-title="tv venezuela ", [Venezuela]   telearagua 
 http://45.173.198.59:8080/hls/nginx3.m3u8?PlaylistM3UCLL
@@ -443,8 +441,7 @@ https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8?PlaylistM3UC
 
 
 
-#EXTINF:-1 group-title="tv argentina ", [Argentina]   Somos Uno  
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+
 
 
 ================= peru =====================
@@ -516,11 +513,9 @@ https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 
 =================costa rica ==========
-#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]    Canal 5 STV San Vito |  
-https://acceso.mediosdecostarica.com:3422/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]   Canal Retrox tv 
-https://tvservices.fullhd-streaming.com:3963/live/tvgroupretroxtvlive.m3u8
+
+
 
 #EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  Voice Over Radio TV 
 https://tvservices.fullhd-streaming.com:3941/multi_web/play.m3u8
@@ -543,8 +538,7 @@ https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3U
 
 
 
-#EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  TVNOSARA
-https://latamvdo.com:3870/hybrid/play.m3u8
+
 
 #EXTINF:-1 group-title="tv COSTA RICA ", [Costa Rica]  TVSUR
 https://k20.usastreams.com:8081/tvsur/index.m3u8
@@ -566,8 +560,7 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8?PlaylistM3UCL
 
 =========== panama =======
 
-#EXTINF:-1 group-title="tv PANAMA", [Panama]  Hispania TV 
-https://www.streaming507.net:19360/hispaniamediatv/hispaniamediatv.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="tv PANAMA", [Panama]  Hosanna Vision 
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8?PlaylistM3UCL
@@ -590,8 +583,7 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q
 #EXTINF:-1 group-title="TV chile", [Chile]  Vclassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 group-title="TV chile", [Chile]  RuidostvTV
-https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 group-title="TV chile", [Chile] LACHILENA TV 
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
@@ -743,8 +735,7 @@ https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?Playlis
 #EXTINF:-1 group-title="tv Uruguay", [Uruguay] UCL TelevisiÃ³n LATAM  
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv Uruguay", [Uruguay]  VIVO Tv  
-https://stream.vivotv.uy/hls/stream.m3u8
+
 
 ==========honduras=========
 
@@ -839,8 +830,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Canal 53 Luna 
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] canal 35 sport vision 
-https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+
 
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  VTV 32
@@ -848,22 +838,19 @@ https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 
 
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  En TV 
-https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8
+
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Cielo TV 
 https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  Catorce TV 
-https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
+
 
 
 
 #EXTINF:-1 group-title="tv República Dominicana", [República Dominicana]  Ready 
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="tv República Dominicana", [República Dominicana] Teleantillas
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_360.m3u8
+
 
 
 
@@ -948,8 +935,7 @@ https://live.presstv.ir/hls/hispantv.m3u8
 
 ============== estados unidos ===========
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  Manantial de Adoración
-https://5bf8041cb3fed.streamlock.net/ManantialdeAdoracionTV/ManantialdeAdoracionTV/playlist.m3u8
+
 
 
 
@@ -989,17 +975,6 @@ https://nosey-3-us.plex.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv banda
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-mmcfreetv-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv familia 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv hits
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/playlist.m3u8
-
-#EXTINF:-1 group-title="tv Estados unidos ", [Estados unidos]  freetv saber 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/playlist.m3u8
 
 =====================salvador================
 
@@ -1044,8 +1019,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="TV TEMÁTICA", [Canales de documentales y conocimiento]  Pilotos del Ártico
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IcePilotsSpanish&ads.csid=zeus_es_indigeniusicepilots_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5914&ads.rakuten_streaming_id=8c141f38-6abc-4f7e-9cd2-fab3329f01c9&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883090&ads.xumo_contentId=2504&ads.xumo_contentName=IndigeniusSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2504&ads.xumo_providerName=IndigeniusSpanish&ads.xumo_streamId=88883090
 
-#EXTINF:-1 group-title="TV TEMÁTICA",  [Canales de documentales y conocimiento]  Saber más
-https://amg01024-olympusat-sabermas-ono-ad-d1.amagi.tv/playlist/amg01024-olympusat-sabermas-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=sabermas&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853826&id=2606&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=2lJaFyiADSfR2zs4oCF3Zf2iZ%2Fa2qfPV6YjR5iw1jTI%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=sabermas&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
 
 
@@ -1059,14 +1032,12 @@ https://amg01258-raycomsports-powernationspanish-canelatv-5h8dc.amagi.tv/playlis
 ==============CINE Y ENTRETENIMIENTO==================
 
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  [Acción]  Free TV Acción
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  [Acción]  Runtime Acción  
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  [Acción]  Cine Sureno 
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesurenoar-lgar/playlist.m3u8
+
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Acción]  Cine Sony (720p)
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
@@ -1078,11 +1049,7 @@ https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefr
 
 
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  [Drama] Free TV Estelar
-https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/playlist/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=freetv.com&genre=Originales%20de%20FreeTV&us_privacy=1YN-&coppa=0&c_producer=tucine&c_lang=es&app_bundle=com.olympusat.FreeTV&app_name=FreeTV&app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&did=1ae4ca47b5d9a9c53bacfe983e8b4633&dnt=0&app_provider=ottera&timestamp=1713853984&id=2618&ip=2806%3A108e%3A16%3A36d4%3Aadb5%3A3eeb%3A971a%3A156f&override_expiration=1500&sign=RsMxdy7%2BeSxr0SmjTI7P0wdl%2B0U9yDVHKi%2FXPUo5oxY%3D&ads.url=freetv.com&ads.genre=Originales%20de%20FreeTV&%3Chttp://ads.us|ads.us%3E_privacy=1YN-&ads.coppa=0&ads.c_producer=tucine&ads.app_bundle=com.olympusat.FreeTV&ads.app_name=FreeTV&ads.app_store_url=https%3A%2F%2Fwww.freetv.com%2Fdevices&ads.did=1ae4ca47b5d9a9c53bacfe983e8b4633&ads.dnt=0
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO",  [Drama] Free TV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Drama] Runtime Familia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
@@ -1093,8 +1060,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Drama] Runtime Romance 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Terror] Free TV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Terror] Runtime Crimen 
@@ -1104,8 +1070,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6129
 https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
 
 
-#EXTINF:-1 group-title="CINE Y ENTRETENIMIENTO", [Varios géneros] Free TV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+
 
 
 
@@ -1119,23 +1084,18 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/pla
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Sony Novelas (MX)
-https://spt-sonyonenovelas-1-mx.xiaomi.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS Y DRAMAS", Novelas España
-https://stormcast-novelas-2-es.samsung.wurl.tv/playlist.m3u8
+
+
 
 ====================DIBUJOS ANIMADOS=============
 
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  anime 24
-https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS",  [Anime]  LOCOMOTION
-https://live20.bozztv.com/giatvplayout7/giatv-210075/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="DIBUJOS ANIMADOS", [Animación infantil]  retro magico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/chunks.m3u8
+
+
+
 
 
 ====================deportes===========

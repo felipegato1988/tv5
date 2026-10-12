@@ -12,8 +12,8 @@ https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
-
-
+#EXTINF:-1 group-title="tv ecuador ", [Ecuador]  utv
+https://streaming.utn.edu.ec/hls/canal1.m3u8
 
 
 

@@ -29,7 +29,7 @@ https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  Ecuador TV 
-https://samson.streamerr.co:8081/shogun/index.m3u8?PlaylistM3UCL
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  ecuavisa  
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b260591109267b01ab75a7bb?PlaylistM3UCL
@@ -44,7 +44,7 @@ https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8?Playl
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador]  majestadtv 
-https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
+https://revo2.discovr.now/majestadtv.m3u8
 
 #EXTINF:-1 group-title="tv ecuador ", [Ecuador] oromartv 
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8?PlaylistM3UCL
